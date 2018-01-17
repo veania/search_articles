@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 Entrez.email = "elizarova@phystech.edu"
 
 key_words = '[[ [ seawater OR marine OR sediment OR freshwater OR ocean OR river OR lake OR aquatic] metagenome ] ' \
-            'OR [ marine microbial community ]] NOT gut'
+            'OR [ marine microbial community ]] NOT gut] NOT intestine] NOT human'
 handle = Entrez.esearch(db="bioproject", term=key_words)
 record = Entrez.read(handle)
 handle.close()
