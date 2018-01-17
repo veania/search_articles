@@ -41,6 +41,6 @@ for id in record['IdList']:
         abstract = root.findall('.//abstract/p')[0].text
 
         txt = open("Output.txt", "a")
-        txt.write('%s\n%s id: %s\nTITLE: %s\nABSTRACT:\n%s\n' %
+        txt.write('%s\n%s id: %s\nTITLE: %s\nABSTRACT:\n%s\n\n' %
                   (project_accession, db_name, id_article, title, abstract))
         txt.close()
