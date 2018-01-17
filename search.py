@@ -29,8 +29,8 @@ for id in record['IdList']:
     handle.close()
 
     root = ET.fromstring(record)
-    number_of_results = int(root[0].text)
-    if number_of_results != 0:
+    number_of_articles = int(root[0].text)
+    if number_of_articles != 0:
         id_article = root.findall('.//IdList/Id')[0].text
         print 'ARTICLE FOUND:', id_article
 
