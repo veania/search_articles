@@ -64,7 +64,7 @@ def main():
             except urllib2.HTTPError or urllib2.URLError:
                 print 'error'
                 txt = open("urllib2Error", "a")
-                txt.write('prj: %s\n', project_accession)
+                txt.write('prj: %s\n' % project_accession)
                 txt.close()
                 continue
 
@@ -83,7 +83,7 @@ def main():
                 except urllib2.HTTPError or urllib2.URLError:
                     print 'error'
                     txt = open("urllib2Error", "a")
-                    txt.write('id_art: %s\n', id_article)
+                    txt.write('id_art: %s\n' % id_article)
                     txt.close()
                     continue
 
@@ -101,7 +101,7 @@ def main():
                 except UnicodeEncodeError:
                     print 'error'
                     txt = open("UnicodeEncodeError", "a")
-                    txt.write('%s\n', id_article)
+                    txt.write('%s\n' % id_article)
                     txt.close()
 
             # save txt with project ids which have been checked
