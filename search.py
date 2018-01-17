@@ -19,7 +19,7 @@ for id in record['IdList']:
     handle.close()
     root = ET.fromstring(record)
 
-    project_accession = root[0][0][0][0].attrib['accession']
+    project_accession = root.findall('.//ArchiveID')[0].attrib['accession']
     print project_accession
     handle = Entrez.esearch(db="pmc", term=project_accession)
     record = handle.read()
@@ -28,7 +28,7 @@ for id in record['IdList']:
     root = ET.fromstring(record)
     number_of_results = int(root[0].text)
     if number_of_results != 0:
-        id_article = root[3][0].text
+        id_article = root.findall('.//IdList/Id')[0].text
         print 'ARTICLE_ID:', id_article
 
         db_name = "pmc"
