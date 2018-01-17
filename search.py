@@ -20,12 +20,15 @@ number_of_projects = len(record['IdList'])
 print 'Number of projects to be checked: ', number_of_projects
 
 for id in record['IdList']:
+    print 'Bioproject id: ', id
+
     # get bioproject id
     handle = Entrez.efetch(db="bioproject", id=id, retmode='xml')
     record = handle.read()
     handle.close()
     root = ET.fromstring(record)
     project_accession = root.findall('.//ArchiveID')[0].attrib['accession']
+    print 'Bioproject accession number: ', project_accession
 
     # check if related to any article in db_name
     db_name = "pmc"
@@ -61,4 +64,5 @@ for id in record['IdList']:
 
     number_of_projects -= 1
     print 'Number of project to be checked left: ', number_of_projects
-    print 'Last project checked: ', project_accession
+    print '_'
+
