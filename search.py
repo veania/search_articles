@@ -36,7 +36,7 @@ def main():
     for id in record['IdList']:
         print 'Bioproject id: ', id
 
-        if not_checked(id):
+        if not_checked(id):  # not to check same articles again if e.g. there are changes in key_words
             # get bioproject id
             try:
                 handle = Entrez.efetch(db="bioproject", id=id, retmode='xml')
@@ -104,6 +104,7 @@ def main():
                     txt.write('%s\n', id_article)
                     txt.close()
 
+            # save txt with project ids which have been checked
             f = open('ids_checked.txt', 'a')
             f.write('%s\n' % id)
             f.close()
@@ -112,7 +113,7 @@ def main():
         print 'Number of project to be checked left: ', number_of_projects
         print '_'
 
-        time.sleep(5)
+        time.sleep(5)  # NCBI can kick you out if too many requests in a row
 
 
 if __name__ == "__main__":

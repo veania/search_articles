@@ -1,0 +1,6 @@
+PRJEB20063
+pmc id: 5732176
+TITLE: Microbiological and Geochemical Survey of CO
+ABSTRACT:
+The Cheb Basin (NW Bohemia, Czech Republic) is a shallow, neogene intracontinental basin. It is a non-volcanic region which features frequent earthquake swarms and large-scale diffuse degassing of mantle-derived CO
+
