@@ -10,3 +10,15 @@ TITLE: Seasonal Analysis of Microbial Communities in Precipitation in the Greate
 ABSTRACT:
 The presence of microbes in the atmosphere and their transport over long distances across the Earth's surface was recently shown. Precipitation is likely a major path by which aerial microbes fall to the ground surface, affecting its microbial ecosystems and introducing pathogenic microbes. Understanding microbial communities in precipitation is of multidisciplinary interest from the perspectives of microbial ecology and public health; however, community-wide and seasonal analyses have not been conducted. Here, we carried out 16S rRNA amplicon sequencing of 30 precipitation samples that were aseptically collected over 1 year in the Greater Tokyo Area, Japan. The precipitation microbial communities were dominated by Proteobacteria, Firmicutes, Bacteroidetes, and Actinobacteria and were overall consistent with those previously reported in atmospheric aerosols and cloud water. Seasonal variations in composition were observed; specifically, Proteobacteria abundance significantly decreased from summer to winter. Notably, estimated ordinary habitats of precipitation microbes were dominated by animal-associated, soil-related, and marine-related environments, and reasonably consistent with estimated air mass backward trajectories. To our knowledge, this is the first amplicon-sequencing study investigating precipitation microbial communities involving sampling over the duration of a year.
 
+PRJNA414965
+pmc id: 5721143
+TITLE: Metagenome Sequence of a Microbial Community from the Gold Mine Tailings in the Kuzbass Area, Russia
+ABSTRACT:
+The metagenome of a microbial community of the sediments from a highly acidic iron-rich puddle at the tailings dump of the Komsomolskaya gold mine in the Kuzbass area, Siberia, Russia, was sequenced. Binning of contigs yielded a near-complete genome of the dominant bacterium, representing a novel deep lineage of 
+
+PRJNA412272
+pmc id: 5744136
+TITLE: Distribution and Inferred Evolutionary Characteristics of a Chimeric ssDNA Virus Associated with Intertidal Marine Isopods
+ABSTRACT:
+Aquatic invertebrates are common reservoirs of a rapidly expanding group of circular Rep-encoding ssDNA (CRESS-DNA) viruses. This study identified and explored the phylogenetic relationship between novel CRESS-DNA viral genotypes associated with Pacific intertidal isopods 
+

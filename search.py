@@ -46,7 +46,7 @@ def main():
             except urllib2.HTTPError or urllib2.URLError:
                 print 'error'
                 txt = open("urllib2Error", "a")
-                txt.write('prj_id: %s\n', id)
+                txt.write('prj_id: %s\n' % id)
                 txt.close()
                 continue
 
