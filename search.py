@@ -108,12 +108,11 @@ def main():
             f = open('ids_checked.txt', 'a')
             f.write('%s\n' % id)
             f.close()
+            time.sleep(1)  # NCBI can kick you out if too many requests in a row
 
         number_of_projects -= 1
         print 'Number of project to be checked left: ', number_of_projects
         print '_'
-
-        time.sleep(5)  # NCBI can kick you out if too many requests in a row
 
 
 if __name__ == "__main__":
