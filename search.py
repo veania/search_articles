@@ -13,6 +13,9 @@ handle = Entrez.esearch(db="bioproject", term=key_words, retmax=record['Count'])
 record = Entrez.read(handle)
 handle.close()
 
+number_of_projects = len(record['IdList'])
+print 'Number of projects to be checked: ', number_of_projects
+
 for id in record['IdList']:
     handle = Entrez.efetch(db="bioproject", id=id, retmode='xml')
     record = handle.read()
@@ -20,7 +23,7 @@ for id in record['IdList']:
     root = ET.fromstring(record)
 
     project_accession = root.findall('.//ArchiveID')[0].attrib['accession']
-    print project_accession
+    # print project_accession
     handle = Entrez.esearch(db="pmc", term=project_accession)
     record = handle.read()
     handle.close()
@@ -29,7 +32,7 @@ for id in record['IdList']:
     number_of_results = int(root[0].text)
     if number_of_results != 0:
         id_article = root.findall('.//IdList/Id')[0].text
-        print 'ARTICLE_ID:', id_article
+        print 'ARTICLE FOUND:', id_article
 
         db_name = "pmc"
         handle = Entrez.efetch(db=db_name, id=id_article, retmode='xml')
@@ -44,3 +47,6 @@ for id in record['IdList']:
         txt.write('%s\n%s id: %s\nTITLE: %s\nABSTRACT:\n%s\n\n' %
                   (project_accession, db_name, id_article, title, abstract))
         txt.close()
+
+    number_of_projects -= 1
+    print 'Number of project to be checked left: ', number_of_projects
