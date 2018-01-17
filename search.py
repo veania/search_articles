@@ -45,13 +45,20 @@ for id in record['IdList']:
         handle.close()
         root = ET.fromstring(record)
 
-        title = root.findall('.//title-group/article-title')[0].text
-        abstract = root.findall('.//abstract/p')[0].text
+        try:
+            title = root.findall('.//title-group/article-title')[0].text
+            abstract = root.findall('.//abstract/p')[0].text
 
-        txt = open("Output.txt", "a")
-        txt.write('%s\n%s id: %s\nTITLE: %s\nABSTRACT:\n%s\n\n' %
-                  (project_accession, db_name, id_article, title, abstract))
-        txt.close()
+            txt = open("Output.txt", "a")
+            txt.write('%s\n%s id: %s\nTITLE: %s\nABSTRACT:\n%s\n\n' %
+                      (project_accession, db_name, id_article, title, abstract))
+            txt.close()
+
+        except UnicodeEncodeError:
+            txt = open("UnicodeEncodeError", "a")
+            txt.write('%s\n', id_article)
+            txt.close()
 
     number_of_projects -= 1
     print 'Number of project to be checked left: ', number_of_projects
+    print 'Last project checked: ', project_accession
