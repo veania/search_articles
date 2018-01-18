@@ -22,3 +22,1227 @@ TITLE: Distribution and Inferred Evolutionary Characteristics of a Chimeric ssDN
 ABSTRACT:
 Aquatic invertebrates are common reservoirs of a rapidly expanding group of circular Rep-encoding ssDNA (CRESS-DNA) viruses. This study identified and explored the phylogenetic relationship between novel CRESS-DNA viral genotypes associated with Pacific intertidal isopods 
 
+PRJNA401637
+pmc id: 5634792
+TITLE: Extensive Core Microbiome in Drone-Captured Whale Blow Supports a Framework for Health Monitoring
+ABSTRACT:
+The conservation and management of large whales rely in part upon health monitoring of individuals and populations, and methods generally necessitate invasive sampling. Here, we used a small, unmanned hexacopter drone to noninvasively fly above humpback whales from two populations, capture their exhaled breath (blow), and examine the associated microbiome. In the first extensive examination of the large-whale blow microbiome, we present surprising results about the discovery of a large core microbiome that was shared across individual whales from geographically separated populations in two ocean basins. We suggest that this core microbiome, in addition to other microbiome characteristics, could be a useful feature for health monitoring of large whales worldwide.
+
+PRJNA396997
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJEB21598
+pmc id: 5550742
+TITLE: Cyanobacterial Allelochemicals But Not Cyanobacterial Cells Markedly Reduce Microbial Community Diversity
+ABSTRACT:
+The freshwater cyanobacterium 
+
+PRJEB14951
+pmc id: 5471338
+TITLE: Viromes As Genetic Reservoir for the Microbial Communities in Aquatic Environments: A Focus on Antimicrobial-Resistance Genes
+ABSTRACT:
+Despite studies of viromes isolated from aquatic environments are becoming increasingly frequent, most of them are limited to the characterization of viral taxonomy. Bacterial reads in viromes are abundant but the extent to which this genetic material is playing a role in the ecology of aquatic microbiology remains unclear. To this aim, we developed of a useful approach for the characterization of viral and microbial communities of aquatic environments with a particular focus on the identification of microbial genes harbored in the viromes. Virus-like particles were isolated from water samples collected across the Lambro River, from the spring to the high urbanized Milan area. The derived viromes were analyzed by shotgun metagenomic sequencing looking for the presence, relative abundance of bacterial genes with particular focus on those genes involved in antimicrobial resistance mechanisms. Antibiotic and heavy metal resistance genes have been identified in all virome samples together with a high abundance of reads assigned to cellular processes and signaling. Virome data compared to those identified in the microbiome isolated from the same sample revealed differences in terms of functional categories and their relative abundance. To verify the role of aquatic viral population in bacterial gene transfer, water-based mesocosms were perturbed or not perturbed with a low dose of tetracycline. The results obtained by qPCR assays revealed variation in abundance of 
+
+PRJNA391950
+pmc id: 5739024
+TITLE: A dynamic microbial community with high functional redundancy inhabits the cold, oxic subseafloor aquifer
+ABSTRACT:
+The rock-hosted subseafloor crustal aquifer harbors a reservoir of microbial life that may influence global marine biogeochemical cycles. Here we utilized metagenomic libraries of crustal fluid samples from North Pond, located on the flanks of the Mid-Atlantic Ridge, a site with cold, oxic subseafloor fluid circulation within the upper basement to query microbial diversity. Twenty-one samples were collected during a 2-year period to examine potential microbial metabolism and community dynamics. We observed minor changes in the geochemical signatures over the 2 years, yet the microbial community present in the crustal fluids underwent large shifts in the dominant taxonomic groups. An analysis of 195 metagenome-assembled genomes (MAGs) were generated from the data set and revealed a connection between litho- and autotrophic processes, linking carbon fixation to the oxidation of sulfide, sulfur, thiosulfate, hydrogen, and ferrous iron in members of the 
+
+PRJNA391422
+pmc id: 5741685
+TITLE: The Biogeographical Distribution of Benthic 
+ABSTRACT:
+By now, only limited information on the 
+
+PRJNA385857
+pmc id: 5507172
+TITLE: 290 metagenome-assembled genomes from the Mediterranean Sea: a resource for marine microbiology
+ABSTRACT:
+The 
+
+PRJNA385797
+pmc id: 5700182
+TITLE: Comparative metagenomics of hydrocarbon and methane seeps of the Gulf of Mexico
+ABSTRACT:
+Oil and gas percolate profusely through the sediments of the Gulf of Mexico, leading to numerous seeps at the seafloor, where complex microbial, and sometimes animal communities flourish. Sediments from three areas (two cold seeps with contrasting hydrocarbon composition and a site outside any area of active seepage) of the Gulf of Mexico were investigated and compared. Consistent with the existence of a seep microbiome, a distinct microbial community was observed in seep areas compared to sediment from outside areas of active seepage. The microbial community from sediments without any influence from hydrocarbon seepage was characterized by 
+
+PRJNA384468
+pmc id: 5513705
+TITLE: Deep-Sea Hydrothermal Vent Viruses Compensate for Microbial Metabolism in Virus-Host Interactions
+ABSTRACT:
+Viruses are believed to be responsible for the mortality of host organisms. However, some recent investigations reveal that viruses may be essential for host survival. To date, it remains unclear whether viruses are beneficial or harmful to their hosts. To reveal the roles of viruses in the virus-host interactions, viromes and microbiomes of sediment samples from three deep-sea hydrothermal vents were explored in this study. To exclude the influence of exogenous DNAs on viromes, the virus particles were purified with nuclease (DNase I and RNase A) treatments and cesium chloride density gradient centrifugation. The metagenomic analysis of viromes without exogenous DNA contamination and microbiomes of vent samples indicated that viruses had compensation effects on the metabolisms of their host microorganisms. Viral genes not only participated in most of the microbial metabolic pathways but also formed branched pathways in microbial metabolisms, including pyrimidine metabolism; alanine, aspartate, and glutamate metabolism; nitrogen metabolism and assimilation pathways of the two-component system; selenocompound metabolism; aminoacyl-tRNA biosynthesis; and amino sugar and nucleotide sugar metabolism. As is well known, deep-sea hydrothermal vent ecosystems exist in relatively isolated environments which are barely influenced by other ecosystems. The metabolic compensation of hosts mediated by viruses might represent a very important aspect of virus-host interactions.
+
+PRJNA383383
+pmc id: 5562018
+TITLE: Variation of Oxygenation Conditions on a Hydrocarbonoclastic Microbial Community Reveals 
+ABSTRACT:
+Deciphering the ecology of marine obligate hydrocarbonoclastic bacteria (MOHCB) is of crucial importance for understanding their success in occupying distinct niches in hydrocarbon-contaminated marine environments after oil spills. In marine coastal sediments, MOHCB are particularly subjected to extreme fluctuating conditions due to redox oscillations several times a day as a result of mechanical (tide, waves and currents) and biological (bioturbation) reworking of the sediment. The adaptation of MOHCB to the redox oscillations was investigated by an experimental ecology approach, subjecting a hydrocarbon-degrading microbial community to contrasting oxygenation regimes including permanent anoxic conditions, anoxic/oxic oscillations and permanent oxic conditions. The most ubiquitous MOHCB, 
+
+PRJNA382280
+pmc id: 5554518
+TITLE: Biochemical Mechanisms and Microorganisms Involved in Anaerobic Testosterone Metabolism in Estuarine Sediments
+ABSTRACT:
+Current knowledge on the biochemical mechanisms underlying microbial steroid metabolism in anaerobic ecosystems is extremely limited. Sulfate, nitrate, and iron [Fe (III)] are common electron acceptors for anaerobes in estuarine sediments. Here, we investigated anaerobic testosterone metabolism in anaerobic sediments collected from the estuary of Tamsui River, Taiwan. The anaerobic sediment samples were spiked with testosterone (1 mM) and individual electron acceptors (10 mM), including nitrate, Fe
+
+PRJNA378706
+pmc id: 5740177
+TITLE: Biodegradation of weathered polystyrene films in seawater microcosms
+ABSTRACT:
+A microcosm experiment was conducted at two phases in order to investigate the ability of indigenous consortia alone or bioaugmented to degrade weathered polystyrene (PS) films under simulated marine conditions. Viable populations were developed on PS surfaces in a time dependent way towards convergent biofilm communities, enriched with hydrocarbon and xenobiotics degradation genes. Members of Alphaproteobacteria and Gammaproteobacteria were highly enriched in the acclimated plastic associated assemblages while the abundance of plastic associated genera was significantly increased in the acclimated indigenous communities. Both tailored consortia efficiently reduced the weight of PS films. Concerning the molecular weight distribution, a decrease in the number-average molecular weight of films subjected to microbial treatment was observed. Moreover, alteration in the intensity of functional groups was noticed with Fourier transform infrared spectrophotometry (FTIR) along with signs of bio-erosion on the PS surface. The results suggest that acclimated marine populations are capable of degrading weathered PS pieces.
+
+PRJNA374734
+pmc id: 5353589
+TITLE: Effect of pesticides on microbial communities in container aquatic habitats
+ABSTRACT:
+Container aquatic habitats support a specialized community of macroinvertebrates (e.g. mosquitoes) that feed on microbial communities associated with decaying organic matter. These aquatic habitats are often embedded within and around agricultural lands and are frequently exposed to pesticides. We used a microcosm approach to examine the single and combined effects of two herbicides (atrazine, glyphosate), and three insecticides (malathion, carbaryl, permethrin) on microbial communities of container aquatic habitats. MiSeq sequencing of the V4 region of both bacterial and archaeal 16S rRNA gene was used to characterize the microbial communities of indoor microcosms that were either exposed to each pesticide alone, a mix of herbicides, a mix of insecticides, or a mix of all five insecticides. Individual insecticides but not herbicides reduced the microbial diversity and richness and two insecticides, carbaryl and permethrin, also altered the microbial community structure. A mixture of herbicides had no effect on microbial diversity or structure but a mixture of insecticides or all five pesticides reduced microbial diversity and altered the community structure. These findings suggest that exposure of aquatic ecosystems to individual pesticides or their mixtures can disrupt aquatic microbial communities and there is need to decipher how these changes affect resident macroinvertebrate communities.
+
+PRJNA374585
+pmc id: 5510576
+TITLE: Effect of freshwater mussels on the vertical distribution of anaerobic ammonia oxidizers and other nitrogen-transforming microorganisms in upper Mississippi river sediment
+ABSTRACT:
+Targeted qPCR and non-targeted amplicon sequencing of 16S rRNA genes within sediment layers identified the anaerobic ammonium oxidation (anammox) niche and characterized microbial community changes attributable to freshwater mussels. Anammox bacteria were normally distributed (Shapiro-Wilk normality test, 
+
+PRJDB4437
+pmc id: 5332604
+TITLE: Environmental Viral Genomes Shed New Light on Virus-Host Interactions in the Ocean
+ABSTRACT:
+Viruses are diverse and play significant ecological roles in marine ecosystems. However, our knowledge of genome-level diversity in viruses is biased toward those isolated from few culturable hosts. Here, we determined 1,352 nonredundant complete viral genomes from marine environments. Lifting the uncertainty that clouds short incomplete sequences, whole-genome-wide analysis suggests that these environmental genomes represent hundreds of putative novel viral genera. Predicted hosts include dominant groups of marine bacteria and archaea with no isolated viruses to date. Some of the viral genomes encode many functionally related enzymes, suggesting a strong selection pressure on these marine viruses to control cellular metabolisms by accumulating genes.
+
+PRJEB18641
+pmc id: 5397486
+TITLE: Bacterial Community Composition and Potential Driving Factors in Different Reef Habitats of the Spermonde Archipelago, Indonesia
+ABSTRACT:
+Coastal eutrophication is a key driver of shifts in bacterial communities on coral reefs. With fringing and patch reefs at varying distances from the coast the Spermonde Archipelago in southern Sulawesi, Indonesia offers ideal conditions to study the effects of coastal eutrophication along a spatially defined gradient. The present study investigated bacterial community composition of three coral reef habitats: the water column, sediments, and mucus of the hard coral genus 
+
+PRJNA369002
+pmc id: 5437860
+TITLE: Metabarcoding monitoring analysis: the pros and cons of using co-extracted environmental DNA and RNA data to assess offshore oil production impacts on benthic communities
+ABSTRACT:
+Sequencing environmental DNA (eDNA) is increasingly being used as an alternative to traditional morphological-based identification to characterize biological assemblages and monitor anthropogenic impacts in marine environments. Most studies only assess eDNA which, compared to eRNA, can persist longer in the environment after cell death. Therefore, eRNA may provide a more immediate census of the environment due to its relatively weaker stability, leading some researchers to advocate for the use of eRNA as an additional, or perhaps superior proxy for portraying ecological changes. A variety of pre-treatment techniques for screening eDNA and eRNA derived operational taxonomic units (OTUs) have been employed prior to statistical analyses, including removing singleton taxa (i.e., OTUs found only once) and discarding those not present in both eDNA and eRNA datasets. In this study, we used bacterial (16S ribosomal RNA gene) and eukaryotic (18S ribosomal RNA gene) eDNA- and eRNA-derived data from benthic communities collected at increasing distances along a transect from an oil production platform (Taranaki, New Zealand). Macro-infauna (visual classification of benthic invertebrates) and physico-chemical data were analyzed in parallel. We tested the effect of removing singleton taxa, and removing taxa not present in the eDNA and eRNA libraries from the same environmental sample (trimmed by shared OTUs), by comparing the impact of the oil production platform on alpha- and beta-diversity of the eDNA/eRNA-based biological assemblages, and by correlating these to the morphologically identified macro-faunal communities and the physico-chemical data. When trimmed by singletons, presence/absence information from eRNA data represented the best proxy to detect changes on species diversity for both bacteria and eukaryotes. However, assessment of quantitative beta-diversity from read abundance information of bacteria eRNA did not, contrary to eDNA, reveal any impact from the oil production activity. Overall, the data appeared more robust when trimmed by shared OTUs, showing a greater effect of the platform on alpha- and beta-diversity. Trimming by shared OTUs likely removes taxa derived from legacy DNA and technical artefacts introduced through reverse transcriptase, polymerase-chain-reaction and sequencing. Findings from our scoping study suggest that metabarcoding-based biomonitoring surveys should, if funds, time and expertise allow, be assessed using both eDNA and eRNA products.
+
+PRJNA366469
+pmc id: 5688640
+TITLE: Metagenomic analysis of intertidal hypersaline microbial mats from Elkhorn Slough, California, grown with and without molybdate
+ABSTRACT:
+Cyanobacterial mats are laminated microbial ecosystems which occur in highly diverse environments and which may provide a possible model for early life on Earth. Their ability to produce hydrogen also makes them of interest from a biotechnological and bioenergy perspective. Samples of an intertidal microbial mat from the Elkhorn Slough estuary in Monterey Bay, California, were transplanted to a greenhouse at NASA Ames Research Center to study a 24-h diel cycle, in the presence or absence of molybdate (which inhibits biohydrogen consumption by sulfate reducers). Here, we present metagenomic analyses of four samples that will be used as references for future metatranscriptomic analyses of this diel time series.
+
+PRJEB19060
+pmc id: 5434244
+TITLE: Novel Abundant Oceanic Viruses of Uncultured Marine Group II Euryarchaeota
+ABSTRACT:
+Marine group II Euryarchaeota (MG-II) are among the most abundant microbes in oceanic surface waters [
+
+PRJNA362181
+pmc id: 5675916
+TITLE: Subtle Microbiome Manipulation Using Probiotics Reduces Antibiotic-Associated Mortality in Fish
+ABSTRACT:
+Prophylactic antibiotics are widespread in the aquaculture industry and are used where vaccination is impossible or overly expensive. If antibiotics impact fish as they do mice and humans, prophylactic administrations in aquaculture and ornamental fish farms may increase downstream disease susceptibility in target hosts, despite short-term pathogen control benefits. Recent research has suggested that their use exacerbates bacterial outbreaks by creating sterile, nutrient-rich environments for invading pathogens to colonize and could help to explain rising economic costs of bacterial outbreaks in aquaculture. Our findings suggest a long-term cost of prophylactic antibiotic use and demonstrate a probiotic-based solution that does not rely on full microbiome community transplantation.
+
+PRJNA361138
+pmc id: 5440473
+TITLE: Methane Dynamics in a Tropical Serpentinizing Environment: The Santa Elena Ophiolite, Costa Rica
+ABSTRACT:
+Uplifted ultramafic rocks represent an important vector for the transfer of carbon and reducing power from the deep subsurface into the biosphere and potentially support microbial life through serpentinization. This process has a strong influence upon the production of hydrogen and methane, which can be subsequently consumed by microbial communities. The Santa Elena Ophiolite (SEO) on the northwestern Pacific coast of Costa Rica comprises ~250 km
+
+PRJNA360039
+pmc id: 5459821
+TITLE: High resolution profiling of coral-associated bacterial communities using full-length 16S rRNA sequence data from PacBio SMRT sequencing system
+ABSTRACT:
+Coral reefs are a complex ecosystem consisting of coral animals and a vast array of associated symbionts including the dinoflagellate 
+
+PRJNA359637
+pmc id: 5492102
+TITLE: Concurrent Methane Production and Oxidation in Surface Sediment from Aarhus Bay, Denmark
+ABSTRACT:
+Marine surface sediments, which are replete with sulfate, are typically considered to be devoid of endogenous methanogenesis. Yet, methanogenic archaea are present in those sediments, suggesting a potential for methanogenesis. We used an isotope dilution method based on sediment bag incubation and spiking with 
+
+PRJNA356973
+pmc id: 5370145
+TITLE: Patterns of variation in diversity of the Mississippi river microbiome over 1,300 kilometers
+ABSTRACT:
+We examined the downriver patterns of variation in taxonomic diversity of the Mississippi River bacterioplankton microbiome along 1,300 river kilometers, or approximately one third the total length of the river. The study section included portions of the Upper, Middle, and Lower Mississippi River, confluences with five tributaries draining distinct sub-basins, river cities, and extended stretches without major inputs to the Mississippi. The composition and proportional abundance of dominant bacterial phyla was distinct for free-living and particle-associated cells, and constant along the entire reach, except for a substantial but transient disturbance near the city of Memphis, Tennessee. At a finer scale of taxonomic resolution (operational taxonomic units, OTUs), however, there were notable patterns in downriver variation in bacterial community alpha diversity (richness within a site) and beta diversity (variation in composition among sites). There was a strong and steady increase downriver in alpha diversity of OTUs on suspended particles, suggesting an increase in particle niche heterogeneity, and/or particle colonization. Relatively large shifts in beta diversity of free-living and particle-associated communities occurred following major tributary confluences and transiently at Memphis, while in long stretches between these points diversity typically varied more gradually. We conclude that the Mississippi River possesses a bacterioplankton microbiome distinct in diversity from other large river microbiomes in the Mississippi River Basin, that at major river confluences or urban point sources its OTU diversity may shift abruptly and substantially, presumably by immigration of distinct external microbiomes, but that where environmental conditions are more stable along the downriver gradient, microbiome diversity tends to vary gradually, presumably by a process of successional change in community composition.
+
+PRJNA356489
+pmc id: 5653367
+TITLE: Highly heterogeneous diazotroph communities in the Kuroshio Current and the Tokara Strait, Japan
+ABSTRACT:
+In this study, we used 454-pyrosequencing to report the highly diverse diazotroph communities in the Kuroshio and its adjacent waters along a transect across the Tokara Strait, Japan. Terrestrial input from the islands resulted in a highly heterogeneous diazotroph community within a relatively small geographic region, which was presumably caused by the remarkably different responses of UCYN-A2, UCYN-C and 
+
+PRJNA350692
+pmc id: 5723336
+TITLE: Niche Partitioning of the N Cycling Microbial Community of an Offshore Oxygen Deficient Zone
+ABSTRACT:
+Microbial communities in marine oxygen deficient zones (ODZs) are responsible for up to half of marine N loss through conversion of nutrients to N
+
+PRJNA347538
+pmc id: 5733055
+TITLE: Oxygenation of Hypoxic Coastal Baltic Sea Sediments Impacts on Chemistry, Microbial Community Composition, and Metabolism
+ABSTRACT:
+The Baltic Sea has undergone severe eutrophication during the last century, resulting in increased algal blooms and the development of hypoxic bottom waters. In this study, we sampled oxygen deficient sediment cores from a Baltic Sea coastal bay and exposed the bottom water including the sediment surface to oxygen shifts via artificial addition of air during laboratory incubation. Surface sediment (top 1 cm) from the replicate cores were sliced in the field as well as throughout the laboratory incubations and chemical parameters were analyzed along with high throughput sequencing of community DNA and RNA. After oxygenation, dissolved iron decreased in the water overlying the sediment while inorganic sulfur compounds (thiosulfate and tetrathionate) increased when the water was kept anoxic. Oxygenation of the sediment also maintained RNA transcripts attributed to sulfide and sulfur oxidation as well as nitrogen fixation in the sediment surface. Based on 16S rRNA gene and metatranscriptomic analyses it was found that oxygenation of the sediment surface caused a bloom of the 
+
+PRJNA343219
+pmc id: 5460018
+TITLE: Metabolic network analysis reveals microbial community interactions in anammox granules
+ABSTRACT:
+Microbial communities mediating anaerobic ammonium oxidation (anammox) represent one of the most energy-efficient environmental biotechnologies for nitrogen removal from wastewater. However, little is known about the functional role heterotrophic bacteria play in anammox granules. Here, we use genome-centric metagenomics to recover 17 draft genomes of anammox and heterotrophic bacteria from a laboratory-scale anammox bioreactor. We combine metabolic network reconstruction with metatranscriptomics to examine the gene expression of anammox and heterotrophic bacteria and to identify their potential interactions. We find that Chlorobi
+
+PRJNA342151
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJDB5151
+pmc id: 5607371
+TITLE: Ubiquity and quantitative significance of bacterioplankton lineages inhabiting the oxygenated hypolimnion of deep freshwater lakes
+ABSTRACT:
+The oxygenated hypolimnion accounts for a volumetrically significant part of the global freshwater systems. Previous studies have proposed the presence of hypolimnion-specific bacterioplankton lineages that are distinct from those inhabiting the epilimnion. To date, however, no consensus exists regarding their ubiquity and abundance, which is necessary to evaluate their ecological importance. The present study investigated the bacterioplankton community in the oxygenated hypolimnia of 10 deep freshwater lakes. Despite the broad geochemical characteristics of the lakes, 16S rRNA gene sequencing demonstrated that the communities in the oxygenated hypolimnia were distinct from those in the epilimnia and identified several predominant lineages inhabiting multiple lakes. Catalyzed reporter deposition fluorescence 
+
+PRJNA341965
+pmc id: 5377500
+TITLE: Predominance and Metabolic Potential of 
+ABSTRACT:
+Microbial activity in the produced water from hydraulically fractured oil and gas wells may potentially interfere with hydrocarbon production and cause damage to the well and surface infrastructure via corrosion, sulfide release, and fouling. In this study, we surveyed the microbial abundance and community structure of produced water sampled from 42 Marcellus Shale wells in southwestern Pennsylvania (well age ranged from 150 to 1,846 days) to better understand the microbial diversity of produced water. We sequenced the V4 region of the 16S rRNA gene to assess taxonomy and utilized quantitative PCR (qPCR) to evaluate the microbial abundance across all 42 produced water samples. Bacteria of the order 
+
+PRJNA341818
+pmc id: 5492469
+TITLE: Distinct Network Interactions in Particle-Associated and Free-Living Bacterial Communities during a 
+ABSTRACT:
+Particle-associated bacteria (PAB) and free-living bacteria (FLB) from aquatic environments during phytoplankton blooms differ in their physical distance from algae. Both the interactions within PAB and FLB community fractions and their relationship with the surrounding environmental properties are largely unknown. Here, by using high-throughput sequencing and network-based analyses, we compared the community and network characteristics of PAB and FLB from a plateau lake during a 
+
+PRJEB9018
+pmc id: 5068391
+TITLE: Metagenomic survey of methanesulfonic acid (MSA) catabolic genes in an Atlantic Ocean surface water sample and in a partial enrichment
+ABSTRACT:
+Methanesulfonic acid (MSA) is a relevant intermediate of the biogeochemical cycle of sulfur and environmental microorganisms assume an important role in the mineralization of this compound. Several methylotrophic bacterial strains able to grow on MSA have been isolated from soil or marine water and two conserved operons, 
+
+PRJNA340462
+pmc id: 5440473
+TITLE: Methane Dynamics in a Tropical Serpentinizing Environment: The Santa Elena Ophiolite, Costa Rica
+ABSTRACT:
+Uplifted ultramafic rocks represent an important vector for the transfer of carbon and reducing power from the deep subsurface into the biosphere and potentially support microbial life through serpentinization. This process has a strong influence upon the production of hydrogen and methane, which can be subsequently consumed by microbial communities. The Santa Elena Ophiolite (SEO) on the northwestern Pacific coast of Costa Rica comprises ~250 km
+
+PRJNA340134
+pmc id: 5647855
+TITLE: Genome sequences of lower Great Lakes 
+ABSTRACT:
+Blooms of the potentially toxic cyanobacterium 
+
+PRJNA340089
+pmc id: 5647855
+TITLE: Genome sequences of lower Great Lakes 
+ABSTRACT:
+Blooms of the potentially toxic cyanobacterium 
+
+PRJNA340013
+pmc id: 5647855
+TITLE: Genome sequences of lower Great Lakes 
+ABSTRACT:
+Blooms of the potentially toxic cyanobacterium 
+
+PRJEB14545
+pmc id: 5587575
+TITLE: Community-like genome in single cells of the sulfur bacterium 
+ABSTRACT:
+Polyploid bacteria are common, but the genetic and functional diversity resulting from polyploidy is unknown. Here we use single-cell genomics, metagenomics, single-cell amplicon sequencing, and fluorescence in situ hybridization, to show that individual cells of 
+
+PRJNA339333
+pmc id: 5165113
+TITLE: Discordant Temporal Turnovers of Sediment Bacterial and Eukaryotic Communities in Response to Dredging: Nonresilience and Functional Changes
+ABSTRACT:
+To study the stability and succession of sediment microbial and macrobenthic communities in response to anthropogenic disturbance, a time-series sampling was conducted before, during, and 1 year after dredging in the Guan River in Changzhou, China, which was performed with cutter suction dredgers from 10 April to 20 May 2014. The microbial communities were analyzed by sequencing bacterial 16S rRNA and eukaryotic 18S rRNA gene amplicons with Illumina MiSeq, and the macrobenthic community was identified using a morphological approach simultaneously. The results indicated that dredging disturbance significantly altered the composition and structures of sediment communities. The succession rates of communities were estimated by comparing the slopes of time-decay relationships. The temporal turnover of microeukaryotes (
+
+PRJNA338801
+pmc id: 5333549
+TITLE: Spatial distribution of environmental DNA in a nearshore marine habitat
+ABSTRACT:
+In the face of increasing threats to biodiversity, the advancement of methods for surveying biological communities is a major priority for ecologists. Recent advances in molecular biological technologies have made it possible to detect and sequence DNA from environmental samples (environmental DNA or eDNA); however, eDNA techniques have not yet seen widespread adoption as a routine method for biological surveillance primarily due to gaps in our understanding of the dynamics of eDNA in space and time. In order to identify the effective spatial scale of this approach in a dynamic marine environment, we collected marine surface water samples from transects ranging from the intertidal zone to four kilometers from shore. Using PCR primers that target a diverse assemblage of metazoans, we amplified a region of mitochondrial 16S rDNA from the samples and sequenced the products on an Illumina platform in order to detect communities and quantify their spatial patterns using a variety of statistical tools. We find evidence for multiple, discrete eDNA communities in this habitat, and show that these communities decrease in similarity as they become further apart. Offshore communities tend to be richer but less even than those inshore, though diversity was not spatially autocorrelated. Taxon-specific relative abundance coincided with our expectations of spatial distribution in taxa lacking a microscopic, pelagic life-history stage, though most of the taxa detected do not meet these criteria. Finally, we use carefully replicated laboratory procedures to show that laboratory treatments were remarkably similar in most cases, while allowing us to detect a faulty replicate, emphasizing the importance of replication to metabarcoding studies. While there is much work to be done before eDNA techniques can be confidently deployed as a standard method for ecological monitoring, this study serves as a first analysis of diversity at the fine spatial scales relevant to marine ecologists and confirms the promise of eDNA in dynamic environments.
+
+PRJNA338276
+pmc id: 5691036
+TITLE: Methanogenesis in oxygenated soils is a substantial fraction of wetland methane emissions
+ABSTRACT:
+The current paradigm, widely incorporated in soil biogeochemical models, is that microbial methanogenesis can only occur in anoxic habitats. In contrast, here we show clear geochemical and biological evidence for methane production in well-oxygenated soils of a freshwater wetland. A comparison of oxic to anoxic soils reveal up to ten times greater methane production and nine times more methanogenesis activity in oxygenated soils. Metagenomic and metatranscriptomic sequencing recover the first near-complete genomes for a novel methanogen species, and show acetoclastic production from this organism was the dominant methanogenesis pathway in oxygenated soils. This organism, 
+
+PRJNA337838
+pmc id: 5688640
+TITLE: Metagenomic analysis of intertidal hypersaline microbial mats from Elkhorn Slough, California, grown with and without molybdate
+ABSTRACT:
+Cyanobacterial mats are laminated microbial ecosystems which occur in highly diverse environments and which may provide a possible model for early life on Earth. Their ability to produce hydrogen also makes them of interest from a biotechnological and bioenergy perspective. Samples of an intertidal microbial mat from the Elkhorn Slough estuary in Monterey Bay, California, were transplanted to a greenhouse at NASA Ames Research Center to study a 24-h diel cycle, in the presence or absence of molybdate (which inhibits biohydrogen consumption by sulfate reducers). Here, we present metagenomic analyses of four samples that will be used as references for future metatranscriptomic analyses of this diel time series.
+
+PRJNA336698
+pmc id: 5688640
+TITLE: Metagenomic analysis of intertidal hypersaline microbial mats from Elkhorn Slough, California, grown with and without molybdate
+ABSTRACT:
+Cyanobacterial mats are laminated microbial ecosystems which occur in highly diverse environments and which may provide a possible model for early life on Earth. Their ability to produce hydrogen also makes them of interest from a biotechnological and bioenergy perspective. Samples of an intertidal microbial mat from the Elkhorn Slough estuary in Monterey Bay, California, were transplanted to a greenhouse at NASA Ames Research Center to study a 24-h diel cycle, in the presence or absence of molybdate (which inhibits biohydrogen consumption by sulfate reducers). Here, we present metagenomic analyses of four samples that will be used as references for future metatranscriptomic analyses of this diel time series.
+
+PRJNA336658
+pmc id: 5688640
+TITLE: Metagenomic analysis of intertidal hypersaline microbial mats from Elkhorn Slough, California, grown with and without molybdate
+ABSTRACT:
+Cyanobacterial mats are laminated microbial ecosystems which occur in highly diverse environments and which may provide a possible model for early life on Earth. Their ability to produce hydrogen also makes them of interest from a biotechnological and bioenergy perspective. Samples of an intertidal microbial mat from the Elkhorn Slough estuary in Monterey Bay, California, were transplanted to a greenhouse at NASA Ames Research Center to study a 24-h diel cycle, in the presence or absence of molybdate (which inhibits biohydrogen consumption by sulfate reducers). Here, we present metagenomic analyses of four samples that will be used as references for future metatranscriptomic analyses of this diel time series.
+
+PRJNA330990
+pmc id: 5563961
+TITLE: Epibionts dominate metabolic functional potential of 
+ABSTRACT:
+None
+
+PRJNA330773
+pmc id: 5261608
+TITLE: Novel Primer Sets for Next Generation Sequencing-Based Analyses of Water Quality
+ABSTRACT:
+Next generation sequencing (NGS) has rapidly become an invaluable tool for the detection, identification and relative quantification of environmental microorganisms. Here, we demonstrate two new 16S rDNA primer sets, which are compatible with NGS approaches and are primarily for use in water quality studies. Compared to 16S rRNA gene based universal primers, 
+
+PRJNA330171
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJNA330170
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJNA330042
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJNA329303
+pmc id: 5018474
+TITLE: Phytoplankton-Associated Bacterial Community Composition and Succession during Toxic Diatom Bloom and Non-Bloom Events
+ABSTRACT:
+None
+
+PRJNA326769
+pmc id: 5539420
+TITLE: Methane-Fueled Syntrophy through Extracellular Electron Transfer: Uncovering the Genomic Traits Conserved within Diverse Bacterial Partners of Anaerobic Methanotrophic Archaea
+ABSTRACT:
+The anaerobic oxidation of methane by anaerobic methanotrophic (ANME) archaea in syntrophic partnership with deltaproteobacterial sulfate-reducing bacteria (SRB) is the primary mechanism for methane removal in ocean sediments. The mechanism of their syntrophy has been the subject of much research as traditional intermediate compounds, such as hydrogen and formate, failed to decouple the partners. Recent findings have indicated the potential for extracellular electron transfer from ANME archaea to SRB, though it is unclear how extracellular electrons are integrated into the metabolism of the SRB partner. We used metagenomics to reconstruct eight genomes from the globally distributed SEEP-SRB1 clade of ANME partner bacteria to determine what genomic features are required for syntrophy. The SEEP-SRB1 genomes contain large multiheme cytochromes that were not found in previously described free-living SRB and also lack periplasmic hydrogenases that may prevent an independent lifestyle without an extracellular source of electrons from ANME archaea. Metaproteomics revealed the expression of these cytochromes at 
+
+PRJNA326347
+pmc id: 5073339
+TITLE: Evaluating the mobility potential of antibiotic resistance genes in environmental resistomes without metagenomics
+ABSTRACT:
+Antibiotic resistance genes are ubiquitous in the environment. However, only a fraction of them are mobile and able to spread to pathogenic bacteria. Until now, studying the mobility of antibiotic resistance genes in environmental resistomes has been challenging due to inadequate sensitivity and difficulties in contig assembly of metagenome based methods. We developed a new cost and labor efficient method based on Inverse PCR and long read sequencing for studying mobility potential of environmental resistance genes. We applied Inverse PCR on sediment samples and identified 79 different MGE clusters associated with the studied resistance genes, including novel mobile genetic elements, co-selected resistance genes and a new putative antibiotic resistance gene. The results show that the method can be used in antibiotic resistance early warning systems. In comparison to metagenomics, Inverse PCR was markedly more sensitive and provided more data on resistance gene mobility and co-selected resistances.
+
+PRJNA323575
+pmc id: 5654357
+TITLE: Benefits of Genomic Insights and CRISPR-Cas Signatures to Monitor Potential Pathogens across Drinking Water Production and Distribution Systems
+ABSTRACT:
+The occurrence of pathogenic bacteria in drinking water distribution systems (DWDSs) is a major health concern, and our current understanding is mostly related to pathogenic species such as 
+
+PRJNA321191
+pmc id: 5568565
+TITLE: Anoxia stimulates microbially catalyzed metal release from Animas River sediments
+ABSTRACT:
+The Gold King Mine spill in August 2015 released 11 million liters of metal-rich mine waste to the Animas River watershed, an area that has been previously exposed to historical mining activity spanning more than a century. Although adsorption onto fluvial sediments was responsible for rapid immobilization of a significant fraction of the spill-associated metals, patterns of longer-term mobility are poorly constrained. Metals associated with river sediments collected downstream of the Gold King Mine in August 2015 exhibited distinct presence and abundance patterns linked to location and mineralogy. Simulating riverbed burial and development of anoxic conditions, sediment microcosm experiments amended with Animas River dissolved organic carbon revealed the release of specific metal pools coupled to microbial Fe- and SO
+
+PRJNA320927
+pmc id: 5514739
+TITLE: Simulation of 
+ABSTRACT:
+The 
+
+PRJNA319196
+pmc id: 4915023
+TITLE: Microbial interactions lead to rapid micro-scale successions on model marine particles
+ABSTRACT:
+In the ocean, organic particles harbour diverse bacterial communities, which collectively digest and recycle essential nutrients. Traits like motility and exo-enzyme production allow individual taxa to colonize and exploit particle resources, but it remains unclear how community dynamics emerge from these individual traits. Here we track the taxon and trait dynamics of bacteria attached to model marine particles and demonstrate that particle-attached communities undergo rapid, reproducible successions driven by ecological interactions. Motile, particle-degrading taxa are selected for during early successional stages. However, this selective pressure is later relaxed when secondary consumers invade, which are unable to use the particle resource but, instead, rely on carbon from primary degraders. This creates a trophic chain that shifts community metabolism away from the particle substrate. These results suggest that primary successions may shape particle-attached bacterial communities in the ocean and that rapid community-wide metabolic shifts could limit rates of marine particle degradation.
+
+PRJNA317613
+pmc id: 4889597
+TITLE: Differential Impacts of Willow and Mineral Fertilizer on Bacterial Communities and Biodegradation in Diesel Fuel Oil-Contaminated Soil
+ABSTRACT:
+Despite decades of research there is limited understanding of how vegetation impacts the ability of microbial communities to process organic contaminants in soil. Using a combination of traditional and molecular assays, we examined how phytoremediation with willow and/or fertilization affected the microbial community present and active in the transformation of diesel contaminants. In a pot study, willow had a significant role in structuring the total bacterial community and resulted in significant decreases in diesel range organics (DRO). However, stable isotope probing (SIP) indicated that fertilizer drove the differences seen in community structure and function. Finally, analysis of the total variance in both pot and SIP experiments indicated an interactive effect between willow and fertilizer on the bacterial communities. This study clearly demonstrates that a willow native to Alaska accelerates DRO degradation, and together with fertilizer, increases aromatic degradation by shifting microbial community structure and the identity of active naphthalene degraders.
+
+PRJEB12879
+pmc id: 4877373
+TITLE: None
+ABSTRACT:
+Microbiologically influenced corrosion (MIC) is a complex biogeochemical process involving interactions between microbes, metals, minerals, and their environment. We hypothesized that sediment-derived iron-oxidizing bacteria (FeOB) would colonize and become numerically abundant on steel surfaces incubated in coastal marine environments. To test this, steel coupons were incubated on sediments over 40 days, and samples were taken at regular intervals to examine microbial community succession. The experiments were conducted at two locations: (1) a brackish salt marsh stream and (2) a coastal marine bay. We analyzed DNA extracted from the MIC biofilms for bacterial diversity using high-throughput amplicon sequencing of the SSU rRNA gene, and two coupons from the coastal site were single cell sorted and screened for the SSU rRNA gene. We quantified communities of Zetaproteobacteria, sulfate-reducing bacteria (SRB), and total bacteria and archaea using qPCR analyses. Zetaproteobacteria and SRB were identified in the sequencing data and qPCR analyses for samples collected throughout the incubations and were also present in adjacent sediments. At the brackish site, the diversity of Zetaproteobacteria was lower on the steel compared to sediments, consistent with the expected enrichment of FeOB on steel. Their numbers increased rapidly over the first 10 days. At the marine site, Zetaproteobacteria and other known FeOB were not detected in sediments; however, the numbers of Zetaproteobacteria increased dramatically within 10 days on the steel surface, although their diversity was nearly clonal. Iron oxyhydroxide stalk biosignatures were observed on the steel and in earlier enrichment culture studies; this is evidence that the Zetaproteobacteria identified in the qPCR, pyrosequencing, and single cell data were likely FeOB. In the brackish environment, members of freshwater FeOB were also present, but were absent in the fully marine site. This work indicates there is a successional pattern in the colonization of steel surfaces with FeOB being early colonizers; over time the MIC community matures to include other members that may help accelerate corrosion. This work also shows there is a reservoir for Zetaproteobacteria in coastal sediment habitats, where they may influence the coastal iron cycle, and can rapidly colonize steel surfaces or other sources of Fe(II) when available.
+
+PRJEB12379
+pmc id: 5490008
+TITLE: Single-virus genomics reveals hidden cosmopolitan and abundant viruses
+ABSTRACT:
+Microbes drive ecosystems under constraints imposed by viruses. However, a lack of virus genome information hinders our ability to answer fundamental, biological questions concerning microbial communities. Here we apply single-virus genomics (SVGs) to assess whether portions of marine viral communities are missed by current techniques. The majority of the here-identified 44 viral single-amplified genomes (vSAGs) are more abundant in global ocean virome data sets than published metagenome-assembled viral genomes or isolates. This indicates that vSAGs likely best represent the dsDNA viral populations dominating the oceans. Species-specific recruitment patterns and virome simulation data suggest that vSAGs are highly microdiverse and that microdiversity hinders the metagenomic assembly, which could explain why their genomes have not been identified before. Altogether, SVGs enable the discovery of some of the likely most abundant and ecologically relevant marine viral species, such as vSAG 37-F6, which were overlooked by other methodologies.
+
+PRJEB12866
+pmc id: 4877373
+TITLE: None
+ABSTRACT:
+Microbiologically influenced corrosion (MIC) is a complex biogeochemical process involving interactions between microbes, metals, minerals, and their environment. We hypothesized that sediment-derived iron-oxidizing bacteria (FeOB) would colonize and become numerically abundant on steel surfaces incubated in coastal marine environments. To test this, steel coupons were incubated on sediments over 40 days, and samples were taken at regular intervals to examine microbial community succession. The experiments were conducted at two locations: (1) a brackish salt marsh stream and (2) a coastal marine bay. We analyzed DNA extracted from the MIC biofilms for bacterial diversity using high-throughput amplicon sequencing of the SSU rRNA gene, and two coupons from the coastal site were single cell sorted and screened for the SSU rRNA gene. We quantified communities of Zetaproteobacteria, sulfate-reducing bacteria (SRB), and total bacteria and archaea using qPCR analyses. Zetaproteobacteria and SRB were identified in the sequencing data and qPCR analyses for samples collected throughout the incubations and were also present in adjacent sediments. At the brackish site, the diversity of Zetaproteobacteria was lower on the steel compared to sediments, consistent with the expected enrichment of FeOB on steel. Their numbers increased rapidly over the first 10 days. At the marine site, Zetaproteobacteria and other known FeOB were not detected in sediments; however, the numbers of Zetaproteobacteria increased dramatically within 10 days on the steel surface, although their diversity was nearly clonal. Iron oxyhydroxide stalk biosignatures were observed on the steel and in earlier enrichment culture studies; this is evidence that the Zetaproteobacteria identified in the qPCR, pyrosequencing, and single cell data were likely FeOB. In the brackish environment, members of freshwater FeOB were also present, but were absent in the fully marine site. This work indicates there is a successional pattern in the colonization of steel surfaces with FeOB being early colonizers; over time the MIC community matures to include other members that may help accelerate corrosion. This work also shows there is a reservoir for Zetaproteobacteria in coastal sediment habitats, where they may influence the coastal iron cycle, and can rapidly colonize steel surfaces or other sources of Fe(II) when available.
+
+PRJNA312986
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJNA312985
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJEB11384
+pmc id: 4828923
+TITLE: Quantification of the effects of ocean acidification on sediment microbial communities in the environment: the importance of ecosystem approaches
+ABSTRACT:
+To understand how ocean acidification (OA) influences sediment microbial communities, naturally CO
+
+PRJNA312830
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJEB9133
+pmc id: 4984273
+TITLE: Environmental Sequencing Provides Reasonable Estimates of the Relative Abundance of Specific Picoeukaryotes
+ABSTRACT:
+High-throughput sequencing (HTS) is revolutionizing environmental surveys of microbial diversity in the three domains of life by providing detailed information on which taxa are present in microbial assemblages. However, it is still unclear how the relative abundance of specific taxa gathered by HTS correlates with cell abundances. Here, we quantified the relative cell abundance of 6 picoeukaryotic taxa in 13 planktonic samples from 6 European coastal sites using epifluorescence microscopy on tyramide signal amplification-fluorescence 
+
+PRJNA309222
+pmc id: 5513705
+TITLE: Deep-Sea Hydrothermal Vent Viruses Compensate for Microbial Metabolism in Virus-Host Interactions
+ABSTRACT:
+Viruses are believed to be responsible for the mortality of host organisms. However, some recent investigations reveal that viruses may be essential for host survival. To date, it remains unclear whether viruses are beneficial or harmful to their hosts. To reveal the roles of viruses in the virus-host interactions, viromes and microbiomes of sediment samples from three deep-sea hydrothermal vents were explored in this study. To exclude the influence of exogenous DNAs on viromes, the virus particles were purified with nuclease (DNase I and RNase A) treatments and cesium chloride density gradient centrifugation. The metagenomic analysis of viromes without exogenous DNA contamination and microbiomes of vent samples indicated that viruses had compensation effects on the metabolisms of their host microorganisms. Viral genes not only participated in most of the microbial metabolic pathways but also formed branched pathways in microbial metabolisms, including pyrimidine metabolism; alanine, aspartate, and glutamate metabolism; nitrogen metabolism and assimilation pathways of the two-component system; selenocompound metabolism; aminoacyl-tRNA biosynthesis; and amino sugar and nucleotide sugar metabolism. As is well known, deep-sea hydrothermal vent ecosystems exist in relatively isolated environments which are barely influenced by other ecosystems. The metabolic compensation of hosts mediated by viruses might represent a very important aspect of virus-host interactions.
+
+PRJNA308562
+pmc id: 4836421
+TITLE: Metagenomic Signatures of Bacterial Adaptation to Life in the Phyllosphere of a Salt-Secreting Desert Tree
+ABSTRACT:
+The leaves of 
+
+PRJNA308537
+pmc id: 4838809
+TITLE: Spatio-Temporal Interdependence of Bacteria and Phytoplankton during a Baltic Sea Spring Bloom
+ABSTRACT:
+In temperate systems, phytoplankton spring blooms deplete inorganic nutrients and are major sources of organic matter for the microbial loop. In response to phytoplankton exudates and environmental factors, heterotrophic microbial communities are highly dynamic and change their abundance and composition both on spatial and temporal scales. Yet, most of our understanding about these processes comes from laboratory model organism studies, mesocosm experiments or single temporal transects. Spatial-temporal studies examining interactions of phytoplankton blooms and bacterioplankton community composition and function, though being highly informative, are scarce. In this study, pelagic microbial community dynamics (bacteria and phytoplankton) and environmental variables were monitored during a spring bloom across the Baltic Proper (two cruises between North Germany to Gulf of Finland). To test to what extent bacterioplankton community composition relates to the spring bloom, we used next generation amplicon sequencing of the 16S rRNA gene, phytoplankton diversity analysis based on microscopy counts and population genotyping of the dominating diatom 
+
+PRJNA308429
+pmc id: 5358386
+TITLE: Microbial community assembly and evolution in subseafloor sediment
+ABSTRACT:
+Our study shows that deep subseafloor sediments are populated by descendants of rare members of surface sediment microbial communities that become predominant during burial over thousands of years. We provide estimates of mutation rates and strength of purifying selection in a set of taxonomically diverse microbial populations in marine sediments and show that their genetic diversification is minimal during burial. Our data suggest that the ability of subseafloor microbes to subsist in the energy-deprived deep biosphere is not acquired during burial but that these microbes were already capable of living in this unique environment. These findings represent a significant step toward understanding the bounds for life in the deep biosphere and its connection to life in the surface world.
+
+PRJEB6616
+pmc id: 4730985
+TITLE: Reconstructing ecosystem functions of the active microbial community of the Baltic Sea oxygen depleted sediments
+ABSTRACT:
+Baltic Sea deep water and sediments hold one of the largest anthropogenically induced hypoxic areas in the world. High nutrient input and low water exchange result in eutrophication and oxygen depletion below the halocline. As a consequence at Landsort Deep, the deepest point of the Baltic Sea, anoxia in the sediments has been a persistent condition over the past decades. Given that microbial communities are drivers of essential ecosystem functions we investigated the microbial community metabolisms and functions of oxygen depleted Landsort Deep sediments by metatranscriptomics. Results show substantial expression of genes involved in protein metabolism demonstrating that the Landsort Deep sediment microbial community is active. Identified expressed gene suites of metabolic pathways with importance for carbon transformation including fermentation, dissimilatory sulphate reduction and methanogenesis were identified. The presence of transcripts for these metabolic processes suggests a potential for heterotrophic-autotrophic community synergism and indicates active mineralisation of the organic matter deposited at the sediment as a consequence of the eutrophication process. Furthermore, cyanobacteria, probably deposited from the water column, are transcriptionally active in the anoxic sediment at this depth. Results also reveal high abundance of transcripts encoding integron integrases. These results provide insight into the activity of the microbial community of the anoxic sediment at the deepest point of the Baltic Sea and its possible role in ecosystem functioning.
+
+PRJEB6310
+pmc id: 4611497
+TITLE: SIP metagenomics identifies uncultivated 
+ABSTRACT:
+Dimethylsulphide (DMS) has an important role in the global sulphur cycle and atmospheric chemistry. Microorganisms using DMS as sole carbon, sulphur or energy source, contribute to the cycling of DMS in a wide variety of ecosystems. The diversity of microbial populations degrading DMS in terrestrial environments is poorly understood. Based on cultivation studies, a wide range of bacteria isolated from terrestrial ecosystems were shown to be able to degrade DMS, yet it remains unknown whether any of these have important roles 
+
+PRJNA305843
+pmc id: 5112275
+TITLE: Rapid Fermentable Substance Modulates Interactions between Ruminal Commensals and Toll-Like Receptors in Promotion of Immune Tolerance of Goat Rumen
+ABSTRACT:
+Whether dietary non-fiber carbohydrate (NFC), a rapid fermentable substance, affects immune homeostasis of rumen through the modulation of interactions of ruminal microbiota and epithelial toll-like receptors (
+
+PRJNA305634
+pmc id: 5767104
+TITLE: A Study of the Microbial Spatial Heterogeneity of Bahamian Thrombolites Using Molecular, Biochemical, and Stable Isotope Analyses
+ABSTRACT:
+Thrombolites are buildups of carbonate that exhibit a clotted internal structure formed through the interactions of microbial mats and their environment. Despite recent advances, we are only beginning to understand the microbial and molecular processes associated with their formation. In this study, a spatial profile of the microbial and metabolic diversity of thrombolite-forming mats of Highborne Cay, The Bahamas, was generated by using 16S rRNA gene sequencing and predictive metagenomic analyses. These molecular-based approaches were complemented with microelectrode profiling and 
+
+PRJNA305617
+pmc id: 5415624
+TITLE: Biogeographic Comparison of 
+ABSTRACT:
+Over the last decade, publications on deep-sea corals have tripled. Most attention has been paid to 
+
+PRJNA305566
+pmc id: 5358386
+TITLE: Microbial community assembly and evolution in subseafloor sediment
+ABSTRACT:
+Our study shows that deep subseafloor sediments are populated by descendants of rare members of surface sediment microbial communities that become predominant during burial over thousands of years. We provide estimates of mutation rates and strength of purifying selection in a set of taxonomically diverse microbial populations in marine sediments and show that their genetic diversification is minimal during burial. Our data suggest that the ability of subseafloor microbes to subsist in the energy-deprived deep biosphere is not acquired during burial but that these microbes were already capable of living in this unique environment. These findings represent a significant step toward understanding the bounds for life in the deep biosphere and its connection to life in the surface world.
+
+PRJNA305461
+pmc id: 5304162
+TITLE: Responses of spatial-temporal dynamics of bacterioplankton community to large-scale reservoir operation: a case study in the Three Gorges Reservoir, China
+ABSTRACT:
+Large rivers are commonly regulated by damming, yet the effects of such disruption on bacterioplankton community structures have not been adequately studied. The aim of this study was to explore the biogeographical patterns present under dam regulation and to uncover the major drivers structuring bacterioplankton communities. Bacterioplankton assemblages in the Three Gorges Reservoir (TGR) were analyzed using Illumina Miseq sequencing by comparing seven sites located within the TGR before and after impoundment. This approach revealed ecological and spatial-temporal variations in bacterioplankton community composition along the longitudinal axis. The community was dynamic and dominated by Proteobacteria and Actinobacteria phyla, encompassing 39.26% and 37.14% of all sequences, respectively, followed by Bacteroidetes (8.67%) and Cyanobacteria (3.90%). The Shannon-Wiener index of the bacterioplankton community in the flood season (August) was generally higher than that in the impoundment season (November). Principal Component Analysis of the bacterioplankton community compositions showed separation between different seasons and sampling sites. Results of the relationship between bacterioplankton community compositions and environmental variables highlighted that ecological processes of element cycling and large dam disturbances are of prime importance in driving the assemblages of riverine bacterioplankton communities.
+
+PRJNA305416
+pmc id: 5071872
+TITLE: Integrated analysis of bacterial and microeukaryotic communities from differentially active mud volcanoes in the Gulf of Cadiz
+ABSTRACT:
+The present study assesses the diversity and composition of sediment bacterial and microeukaryotic communities from deep-sea mud volcanoes (MVs) associated with strike-slip faults in the South-West Iberian Margin (SWIM). We used a 16S/18S rRNA gene based pyrosequencing approach to characterize and correlate the sediment bacterial and microeukaryotic communities from MVs with differing gas seep regimes and from an additional site with no apparent seeping activity. In general, our results showed significant compositional changes of bacterial and microeukaryotic communities in sampling sites with different seepage regimes. Sediment bacterial communities were enriched with 
+
+PRJNA304193
+pmc id: 4959162
+TITLE: Ultrastructural and Single-Cell-Level Characterization Reveals Metabolic Versatility in a Microbial Eukaryote Community from an Ice-Covered Antarctic Lake
+ABSTRACT:
+The McMurdo Dry Valleys (MCM) of southern Victoria Land, Antarctica, harbor numerous ice-covered bodies of water that provide year-round liquid water oases for isolated food webs dominated by the microbial loop. Single-cell microbial eukaryotes (protists) occupy major trophic positions within this truncated food web, ranging from primary producers (e.g., chlorophytes, haptophytes, and cryptophytes) to tertiary predators (e.g., ciliates, dinoflagellates, and choanoflagellates). To advance the understanding of MCM protist ecology and the roles of MCM protists in nutrient and energy cycling, we investigated potential metabolic strategies and microbial interactions of key MCM protists isolated from a well-described lake (Lake Bonney). Fluorescence-activated cell sorting (FACS) of enrichment cultures, combined with single amplified genome/amplicon sequencing and fluorescence microscopy, revealed that MCM protists possess diverse potential metabolic capabilities and interactions. Two metabolically distinct bacterial clades (
+
+PRJNA302344
+pmc id: 5695250
+TITLE: Coral-associated viral communities show high levels of diversity and host auxiliary functions
+ABSTRACT:
+Stony corals (Scleractinia) are marine invertebrates that form the foundation and framework upon which tropical reefs are built. The coral animal associates with a diverse microbiome comprised of dinoflagellate algae and other protists, bacteria, archaea, fungi and viruses. Using a metagenomics approach, we analysed the DNA and RNA viral assemblages of seven coral species from the central Great Barrier Reef (GBR), demonstrating that tailed bacteriophages of the 
+
+PRJEB11686
+pmc id: 5182994
+TITLE: Brain transcriptomes of harbor seals demonstrate gene expression patterns of animals undergoing a metabolic disease and a viral infection
+ABSTRACT:
+Diseases of marine mammals can be difficult to diagnose because of their life history and protected status. Stranded marine mammals have been a particularly useful resource to discover and comprehend the diseases that plague these top predators. Additionally, advancements in high-throughput sequencing (HTS) has contributed to the discovery of novel pathogens in marine mammals. In this study, we use a combination of HTS and stranded harbor seals (
+
+PRJEB7900
+pmc id: 4702649
+TITLE: Anodes Stimulate Anaerobic Toluene Degradation via Sulfur Cycling in Marine Sediments
+ABSTRACT:
+Hydrocarbons released during oil spills are persistent in marine sediments due to the absence of suitable electron acceptors below the oxic zone. Here, we investigated an alternative bioremediation strategy to remove toluene, a model monoaromatic hydrocarbon, using a bioanode. Bioelectrochemical reactors were inoculated with sediment collected from a hydrocarbon-contaminated marine site, and anodes were polarized at 0 mV and +300 mV (versus an Ag/AgCl [3 M KCl] reference electrode). The degradation of toluene was directly linked to current generation of up to 301 mA m
+
+PRJNA297573
+pmc id: 4852812
+TITLE: Shifts in diversity and function of lake bacterial communities upon glacier retreat
+ABSTRACT:
+Global climate change is causing a wastage of glaciers and threatening biodiversity in glacier-fed ecosystems. The high turbidity typically found in those ecosystems, which is caused by inorganic particles and result of the erosive activity of glaciers is a key environmental factor influencing temperature and light availability, as well as other factors in the water column. Once these lakes loose hydrological connectivity to glaciers and turn clear, the accompanying environmental changes could represent a potential bottleneck for the established local diversity with yet unknown functional consequences. Here, we study three lakes situated along a turbidity gradient as well as one clear unconnected lake and evaluate seasonal changes in their bacterial community composition and diversity. Further, we assess potential consequences for community functioning. Glacier runoff represented a diverse source community for the lakes and several taxa were able to colonize downstream turbid habitats, although they were not found in the clear lake. Operational taxonomic unit-based alpha diversity and phylogenetic diversity decreased along the turbidity gradient, but metabolic functional diversity was negatively related to turbidity. No evidence for multifunctional redundancy, which may allow communities to maintain functioning upon alterations in diversity, was found. Our study gives a first view on how glacier-fed lake bacterial communities are affected by the melting of glaciers and indicates that diversity and community composition significantly change when hydrological connectivity to the glacier is lost and lakes turn clear.
+
+PRJNA297372
+pmc id: 5339267
+TITLE: Different Bacterial Communities Involved in Peptide Decomposition between Normoxic and Hypoxic Coastal Waters
+ABSTRACT:
+Proteins and peptides are key components of the labile dissolved organic matter pool in marine environments. Knowing which types of bacteria metabolize peptides can inform the factors that govern peptide decomposition and further carbon and nitrogen remineralization in marine environments. A 
+
+PRJNA297333
+pmc id: 5047221
+TITLE: Bacterial community diversity of the deep-sea octocoral 
+ABSTRACT:
+Compared to tropical corals, much less is known about deep-sea coral biology and ecology. Although the microbial communities of some deep-sea corals have been described, this is the first study to characterize the bacterial community associated with the deep-sea octocoral, 
+
+PRJNA297058
+pmc id: 4959193
+TITLE: Potential Mechanisms for Microbial Energy Acquisition in Oxic Deep-Sea Sediments
+ABSTRACT:
+The South Pacific Gyre (SPG) possesses the lowest rates of sedimentation, surface chlorophyll concentration, and primary productivity in the global oceans. As a direct result, deep-sea sediments are thin and contain small amounts of labile organic carbon. It was recently shown that the entire SPG sediment column is oxygenated and may be representative of up to a third of the global marine environment. To understand the microbial processes that contribute to the removal of the labile organic matter at the water-sediment interface, a sediment sample was collected and subjected to metagenomic sequencing and analyses. Analysis of nine partially reconstructed environmental genomes, which represent approximately one-third of the microbial community, revealed that the members of the SPG surface sediment microbial community are phylogenetically distinct from surface/upper-ocean organisms. These genomes represent a wide distribution of novel organisms, including deep-branching 
+
+PRJNA294203
+pmc id: 5248499
+TITLE: Towards long-read metagenomics: complete assembly of three novel genomes from bacteria dependent on a diazotrophic cyanobacterium in a freshwater lake co-culture
+ABSTRACT:
+Here we report three complete bacterial genome assemblies from a PacBio shotgun metagenome of a co-culture from Upper Klamath Lake, OR. Genome annotations and culture conditions indicate these bacteria are dependent on carbon and nitrogen fixation from the cyanobacterium 
+
+PRJNA293286
+pmc id: 5411492
+TITLE: Impact of Seasonal Hypoxia on Activity and Community Structure of Chemolithoautotrophic Bacteria in a Coastal Sediment
+ABSTRACT:
+Seasonal hypoxia in coastal systems drastically changes the availability of electron acceptors in bottom water, which alters the sedimentary reoxidation of reduced compounds. However, the effect of seasonal hypoxia on the chemolithoautotrophic community that catalyzes these reoxidation reactions is rarely studied. Here, we examine the changes in activity and structure of the sedimentary chemolithoautotrophic bacterial community of a seasonally hypoxic saline basin under oxic (spring) and hypoxic (summer) conditions. Combined 16S rRNA gene amplicon sequencing and analysis of phospholipid-derived fatty acids indicated a major temporal shift in community structure. Aerobic sulfur-oxidizing 
+
+PRJNA292036
+pmc id: 4876369
+TITLE: Sample Processing Impacts the Viability and Cultivability of the Sponge Microbiome
+ABSTRACT:
+Sponges host complex microbial communities of recognized ecological and biotechnological importance. Extensive cultivation efforts have been made to isolate sponge bacteria, but most still elude cultivation. To identify the bottlenecks of sponge bacterial cultivation, we combined high-throughput 16S rRNA gene sequencing with a variety of cultivation media and incubation conditions. We aimed to determine the extent to which sample processing and cultivation conditions can impact bacterial viability and recovery in culture. We isolated 325 sponge bacteria from six specimens of 
+
+PRJNA291526
+pmc id: 4725283
+TITLE: From Rare to Dominant: a Fine-Tuned Soil Bacterial Bloom during Petroleum Hydrocarbon Bioremediation
+ABSTRACT:
+Hydrocarbons are worldwide-distributed pollutants that disturb various ecosystems. The aim of this study was to characterize the short-lapse dynamics of soil microbial communities in response to hydrocarbon pollution and different bioremediation treatments. Replicate diesel-spiked soil microcosms were inoculated with either a defined bacterial consortium or a hydrocarbonoclastic bacterial enrichment and incubated for 12 weeks. The microbial community dynamics was followed weekly in microcosms using Illumina 16S rRNA gene sequencing. Both the bacterial consortium and enrichment enhanced hydrocarbon degradation in diesel-polluted soils. A pronounced and rapid bloom of a native gammaproteobacterium was observed in all diesel-polluted soils. A unique operational taxonomic unit (OTU) related to the 
+
+PRJNA291283
+pmc id: 4990128
+TITLE: SAR11 bacteria linked to ocean anoxia and nitrogen loss
+ABSTRACT:
+Bacteria of the SAR11 clade constitute up to one half of all microbial cells in the oxygen-rich surface ocean. DNA sequences from SAR11 are also abundant in oxygen minimum zones (OMZs) where oxygen falls below detection and anaerobic microbes play important roles in converting bioavailable nitrogen to N
+
+PRJNA291280
+pmc id: 4711149
+TITLE: Microbial Mat Communities along an Oxygen Gradient in a Perennially Ice-Covered Antarctic Lake
+ABSTRACT:
+Lake Fryxell is a perennially ice-covered lake in the McMurdo Dry Valleys, Antarctica, with a sharp oxycline in a water column that is density stabilized by a gradient in salt concentration. Dissolved oxygen falls from 20 mg liter
+
+PRJNA290197
+pmc id: 5539420
+TITLE: Methane-Fueled Syntrophy through Extracellular Electron Transfer: Uncovering the Genomic Traits Conserved within Diverse Bacterial Partners of Anaerobic Methanotrophic Archaea
+ABSTRACT:
+The anaerobic oxidation of methane by anaerobic methanotrophic (ANME) archaea in syntrophic partnership with deltaproteobacterial sulfate-reducing bacteria (SRB) is the primary mechanism for methane removal in ocean sediments. The mechanism of their syntrophy has been the subject of much research as traditional intermediate compounds, such as hydrogen and formate, failed to decouple the partners. Recent findings have indicated the potential for extracellular electron transfer from ANME archaea to SRB, though it is unclear how extracellular electrons are integrated into the metabolism of the SRB partner. We used metagenomics to reconstruct eight genomes from the globally distributed SEEP-SRB1 clade of ANME partner bacteria to determine what genomic features are required for syntrophy. The SEEP-SRB1 genomes contain large multiheme cytochromes that were not found in previously described free-living SRB and also lack periplasmic hydrogenases that may prevent an independent lifestyle without an extracellular source of electrons from ANME archaea. Metaproteomics revealed the expression of these cytochromes at 
+
+PRJNA289049
+pmc id: 5622073
+TITLE: Periodically spilled-oil input as a trigger to stimulate the development of hydrocarbon-degrading consortia in a beach ecosystem
+ABSTRACT:
+In this study, time-series samples were taken from a gravel beach to ascertain whether a periodic oil input induced by tidal action at the early stage of an oil spill can be a trigger to stimulate the development of hydrocarbon-degrading bacteria under natural 
+
+PRJNA288501
+pmc id: 4569853
+TITLE: Spatial and temporal dynamics of virus occurrence in two freshwater lakes captured through metagenomic analysis
+ABSTRACT:
+Viruses are the most abundant microorganisms in the aquatic environment, yet the identification of viruses and assessing their diversity still remains a challenge. Here, we present a robust, routinely usable approach to identify viruses from two freshwater lakes of the lower Great Lakes region, Lake Ontario, and Lake Erie. We collected water samples from six different beaches of these two lakes during the summer period of 2012 and 2013, and separated into three distinct fractions, namely a bacterial fraction, a virus like particle (VLP) fraction, and a fraction of eDNA (environmental DNA). DNA extracted from all three fractions was sequenced and bioinformatic analyses of sequences revealed the presence of viruses from major viral families. The analyzed viral sequences were dominated by bacteriophage sequences, but also contained many plant and animal viruses. Within the context of this study, geographic location does not appear to have a major impact on viral abundance and diversity, since virome composition of both lakes were similar. Comparative analyses between eDNA and viral fractions showed that eDNA can be used in combination with VLP fractions to identify viruses from the environment.
+
+PRJEB9174
+pmc id: 4619447
+TITLE: Characterization of Bacterial Communities Associated with the Tyrian Purple Producing Gland in a Marine Gastropod
+ABSTRACT:
+None
+
+PRJNA288142
+pmc id: 4919323
+TITLE: Biogeographic Variation in Host Range Phenotypes and Taxonomic Composition of Marine Cyanophage Isolates
+ABSTRACT:
+Despite the important role of phages in marine systems, little is understood about how their diversity is distributed in space. Biogeographic patterns of marine phages may be difficult to detect due to their vast genetic diversity, which may not be accurately represented by conserved marker genes. To investigate the spatial biogeographic structure of marine phages, we isolated over 400 cyanophages on 
+
+PRJNA288027
+pmc id: 5436926
+TITLE: Retroelement guided protein diversification abounds in vast lineages of bacteria and archaea
+ABSTRACT:
+Major radiations of enigmatic bacteria and archaea with large inventories of uncharacterized proteins are a striking feature of the Tree of Life
+
+PRJNA287804
+pmc id: 4989311
+TITLE: Diverse, uncultivated bacteria and archaea underlying the cycling of dissolved protein in the ocean
+ABSTRACT:
+Dissolved organic nitrogen (DON) supports a significant amount of heterotrophic production in the ocean. Yet, to date, the identity and diversity of microbial groups that transform DON are not well understood. To better understand the organisms responsible for transforming high molecular weight (HMW)-DON in the upper ocean, isotopically labeled protein extract from 
+
+PRJNA287634
+pmc id: 4589366
+TITLE: Characterization of Bacterial, Archaeal and Eukaryote Symbionts from Antarctic Sponges Reveals a High Diversity at a Three-Domain Level and a Particular Signature for This Ecosystem
+ABSTRACT:
+Sponge-associated microbial communities include members from the three domains of life. In the case of bacteria, they are diverse, host specific and different from the surrounding seawater. However, little is known about the diversity and specificity of Eukarya and Archaea living in association with marine sponges. This knowledge gap is even greater regarding sponges from regions other than temperate and tropical environments. In Antarctica, marine sponges are abundant and important members of the benthos, structuring the Antarctic marine ecosystem. In this study, we used high throughput ribosomal gene sequencing to investigate the three-domain diversity and community composition from eight different Antarctic sponges. Taxonomic identification reveals that they belong to families Acarnidae, Chalinidae, Hymedesmiidae, Hymeniacidonidae, Leucettidae, Microcionidae, and Myxillidae. Our study indicates that there are different diversity and similarity patterns between bacterial/archaeal and eukaryote microbial symbionts from these Antarctic marine sponges, indicating inherent differences in how organisms from different domains establish symbiotic relationships. In general, when considering diversity indices and number of phyla detected, sponge-associated communities are more diverse than the planktonic communities. We conclude that three-domain microbial communities from Antarctic sponges are different from surrounding planktonic communities, expanding previous observations for Bacteria and including the Antarctic environment. Furthermore, we reveal differences in the composition of the sponge associated bacterial assemblages between Antarctic and tropical-temperate environments and the presence of a highly complex microbial eukaryote community, suggesting a particular signature for Antarctic sponges, different to that reported from other ecosystems.
+
+PRJNA287316
+pmc id: 4728574
+TITLE: Metaviromics of Namib Desert Salt Pans: A Novel Lineage of Haloarchaeal Salterproviruses and a Rich Source of ssDNA Viruses
+ABSTRACT:
+Viral communities of two different salt pans located in the Namib Desert, Hosabes and Eisfeld, were investigated using a combination of multiple displacement amplification of metaviromic DNA and deep sequencing, and provided comprehensive sequence data on both ssDNA and dsDNA viral community structures. Read and contig annotations through online pipelines showed that the salt pans harbored largely unknown viral communities. Through network analysis, we were able to assign a large portion of the unknown reads to a diverse group of ssDNA viruses. Contigs belonging to the subfamily 
+
+PRJNA287069
+pmc id: 4542228
+TITLE: Using Amplicon Sequencing To Characterize and Monitor Bacterial Diversity in Drinking Water Distribution Systems
+ABSTRACT:
+Drinking water assessments use a variety of microbial, physical, and chemical indicators to evaluate water treatment efficiency and product water quality. However, these indicators do not allow the complex biological communities, which can adversely impact the performance of drinking water distribution systems (DWDSs), to be characterized. Entire bacterial communities can be studied quickly and inexpensively using targeted metagenomic amplicon sequencing. Here, amplicon sequencing of the 16S rRNA gene region was performed alongside traditional water quality measures to assess the health, quality, and efficiency of two distinct, full-scale DWDSs: (i) a linear DWDS supplied with unfiltered water subjected to basic disinfection before distribution and (ii) a complex, branching DWDS treated by a four-stage water treatment plant (WTP) prior to disinfection and distribution. In both DWDSs bacterial communities differed significantly after disinfection, demonstrating the effectiveness of both treatment regimes. However, bacterial repopulation occurred further along in the DWDSs, and some end-user samples were more similar to the source water than to the postdisinfection water. Three sample locations appeared to be nitrified, displaying elevated nitrate levels and decreased ammonia levels, and nitrifying bacterial species, such as 
+
+PRJNA286185
+pmc id: 4525015
+TITLE: Metagenome-based diversity analyses suggest a significant contribution of non-cyanobacterial lineages to carbonate precipitation in modern microbialites
+ABSTRACT:
+Cyanobacteria are thought to play a key role in carbonate formation due to their metabolic activity, but other organisms carrying out oxygenic photosynthesis (photosynthetic eukaryotes) or other metabolisms (e.g., anoxygenic photosynthesis, sulfate reduction), may also contribute to carbonate formation. To obtain more quantitative information than that provided by more classical PCR-dependent methods, we studied the microbial diversity of microbialites from the Alchichica crater lake (Mexico) by mining for 16S/18S rRNA genes in metagenomes obtained by direct sequencing of environmental DNA. We studied samples collected at the Western (AL-W) and Northern (AL-N) shores of the lake and, at the latter site, along a depth gradient (1, 5, 10, and 15 m depth). The associated microbial communities were mainly composed of bacteria, most of which seemed heterotrophic, whereas archaea were negligible. Eukaryotes composed a relatively minor fraction dominated by photosynthetic lineages, diatoms in AL-W, influenced by Si-rich seepage waters, and green algae in AL-N samples. Members of the Gammaproteobacteria and Alphaproteobacteria classes of Proteobacteria, Cyanobacteria, and Bacteroidetes were the most abundant bacterial taxa, followed by Planctomycetes, Deltaproteobacteria (Proteobacteria), Verrucomicrobia, Actinobacteria, Firmicutes, and Chloroflexi. Community composition varied among sites and with depth. Although cyanobacteria were the most important bacterial group contributing to the carbonate precipitation potential, photosynthetic eukaryotes, anoxygenic photosynthesizers and sulfate reducers were also very abundant. Cyanobacteria affiliated to Pleurocapsales largely increased with depth. Scanning electron microscopy (SEM) observations showed considerable areas of aragonite-encrusted 
+
+PRJNA285206
+pmc id: 4872838
+TITLE: Ubiquitous 
+ABSTRACT:
+Marine sediments are the largest carbon sink on earth. Nearly half of dark carbon fixation in the oceans occurs in coastal sediments, but the microorganisms responsible are largely unknown. By integrating the 16S rRNA approach, single-cell genomics, metagenomics and transcriptomics with 
+
+PRJNA283210
+pmc id: 4872838
+TITLE: Ubiquitous 
+ABSTRACT:
+Marine sediments are the largest carbon sink on earth. Nearly half of dark carbon fixation in the oceans occurs in coastal sediments, but the microorganisms responsible are largely unknown. By integrating the 16S rRNA approach, single-cell genomics, metagenomics and transcriptomics with 
+
+PRJNA283163
+pmc id: 4872838
+TITLE: Ubiquitous 
+ABSTRACT:
+Marine sediments are the largest carbon sink on earth. Nearly half of dark carbon fixation in the oceans occurs in coastal sediments, but the microorganisms responsible are largely unknown. By integrating the 16S rRNA approach, single-cell genomics, metagenomics and transcriptomics with 
+
+PRJNA282004
+pmc id: 4486872
+TITLE: Functional gene pyrosequencing reveals core proteobacterial denitrifiers in boreal lakes
+ABSTRACT:
+Denitrification is an important microbial process in aquatic ecosystems that can reduce the effects of eutrophication. Here, quantification and pyrosequencing of 
+
+PRJNA281982
+pmc id: 4475827
+TITLE: Anaerobic digestion of the microalga 
+ABSTRACT:
+A haloalkaline anaerobic microbial community obtained from soda lake sediments was used to inoculate anaerobic reactors for the production of methane rich biogas. The microalga 
+
+PRJNA281688
+pmc id: 5388776
+TITLE: Stratified Bacterial Diversity along Physico-chemical Gradients in High-Altitude Modern Stromatolites
+ABSTRACT:
+At an altitude of 3,570 m, the volcanic lake Socompa in the Argentinean Andes is presently the highest site where actively forming stromatolite-like structures have been reported. Interestingly, pigment and microsensor analyses performed through the different layers of the stromatolites (50 mm-deep) showed steep vertical gradients of light and oxygen, hydrogen sulfide and pH in the porewater. Given the relatively good characterization of these physico-chemical gradients, the aim of this follow-up work was to specifically address how the bacterial diversity stratified along the top six layers of the stromatolites which seems the most metabolically important and diversified zone of the whole microbial community. We herein discussed how, in only 7 mm, a drastic succession of metabolic adaptations occurred: i.e., microbial communities shift from a UV-high/oxic world to an IR-low/anoxic/high H
+
+PRJNA280923
+pmc id: 5335547
+TITLE: Differential specificity between closely related corals and abundant 
+ABSTRACT:
+Reef-building corals are well regarded not only for their obligate association with endosymbiotic algae, but also with prokaryotic symbionts, the specificity of which remains elusive. To identify the central microbial symbionts of corals, their specificity across species and conservation over geographic regions, we sequenced partial SSU ribosomal RNA genes of Bacteria and Archaea from the common corals 
+
+PRJNA280411
+pmc id: 4709576
+TITLE: Surfactant-associated bacteria in the near-surface layer of the ocean
+ABSTRACT:
+Certain marine bacteria found in the near-surface layer of the ocean are expected to play important roles in the production and decay of surface active materials; however, the details of these processes are still unclear. Here we provide evidence supporting connection between the presence of surfactant-associated bacteria in the near-surface layer of the ocean, slicks on the sea surface, and a distinctive feature in the synthetic aperture radar (SAR) imagery of the sea surface. From DNA analyses of the 
+
+PRJNA280201
+pmc id: 5739024
+TITLE: A dynamic microbial community with high functional redundancy inhabits the cold, oxic subseafloor aquifer
+ABSTRACT:
+The rock-hosted subseafloor crustal aquifer harbors a reservoir of microbial life that may influence global marine biogeochemical cycles. Here we utilized metagenomic libraries of crustal fluid samples from North Pond, located on the flanks of the Mid-Atlantic Ridge, a site with cold, oxic subseafloor fluid circulation within the upper basement to query microbial diversity. Twenty-one samples were collected during a 2-year period to examine potential microbial metabolism and community dynamics. We observed minor changes in the geochemical signatures over the 2 years, yet the microbial community present in the crustal fluids underwent large shifts in the dominant taxonomic groups. An analysis of 195 metagenome-assembled genomes (MAGs) were generated from the data set and revealed a connection between litho- and autotrophic processes, linking carbon fixation to the oxidation of sulfide, sulfur, thiosulfate, hydrogen, and ferrous iron in members of the 
+
+PRJNA279427
+pmc id: 4742810
+TITLE: Marine mammals harbor unique microbiotas shaped by and yet distinct from the sea
+ABSTRACT:
+Marine mammals play crucial ecological roles in the oceans, but little is known about their microbiotas. Here we study the bacterial communities in 337 samples from 5 body sites in 48 healthy dolphins and 18 healthy sea lions, as well as those of adjacent seawater and other hosts. The bacterial taxonomic compositions are distinct from those of other mammals, dietary fish and seawater, are highly diverse and vary according to body site and host species. Dolphins harbour 30 bacterial phyla, with 25 of them in the mouth, several abundant but poorly characterized Tenericutes species in gastric fluid and a surprisingly paucity of Bacteroidetes in distal gut. About 70% of near-full length bacterial 16S ribosomal RNA sequences from dolphins are unique. Host habitat, diet and phylogeny all contribute to variation in marine mammal distal gut microbiota composition. Our findings help elucidate the factors structuring marine mammal microbiotas and may enhance monitoring of marine mammal health.
+
+PRJNA279271
+pmc id: 4771326
+TITLE: Genome Reconstruction from Metagenomic Data Sets Reveals Novel Microbes in the Brackish Waters of the Caspian Sea
+ABSTRACT:
+We present here the findings from a study of the microbiome of the southern basin of the Caspian Sea, the largest water body on Earth disconnected from any ocean and a brackish inland sea. By high-throughput metagenomics, we were able to reconstruct the genomes of representative microbes. The gross community structure (at the phylum level) was different from the structure of typical marine and freshwater communities in temperate open oceans, with the Caspian Sea having freshwater-like amounts of 
+
+PRJEB7181
+pmc id: 4677816
+TITLE: Seagrass biofilm communities at a naturally CO
+ABSTRACT:
+Seagrass meadows are a crucial component of tropical marine reef ecosystems. Seagrass plants are colonized by a multitude of epiphytic organisms that contribute to broadening the ecological role of seagrasses. To better understand how environmental changes like ocean acidification might affect epiphytic assemblages, the microbial community composition of the epiphytic biofilm of 
+
+PRJEB8682
+pmc id: 5753268
+TITLE: EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies
+ABSTRACT:
+EBI metagenomics (
+
+PRJNA276743
+pmc id: 4620155
+TITLE: Genome reconstructions indicate the partitioning of ecological functions inside a phytoplankton bloom in the Amundsen Sea, Antarctica
+ABSTRACT:
+Antarctica polynyas support intense phytoplankton blooms, impacting their environment by a substantial depletion of inorganic carbon and nutrients. These blooms are dominated by the colony-forming haptophyte 
+
+PRJNA276313
+pmc id: 4782131
+TITLE: Delta-proteobacterial SAR324 group in hydrothermal plumes on the South Mid-Atlantic Ridge
+ABSTRACT:
+In the dark ocean, the SAR324 group of Delta-proteobacteria has been associated with a chemolithotrophic lifestyle. However, their electron transport chain for energy generation and information system has not yet been well characterized. In the present study, four SAR324 draft genomes were extracted from metagenomes sampled from hydrothermal plumes in the South Mid-Atlantic Ridge. We describe novel electron transport chain components in the SAR324 group, particularly the alternative complex III, which is involved in energy generation. Moreover, we propose that the C-type cytochrome, for example the 
+
+PRJNA276058
+pmc id: 4734448
+TITLE: Marine microbial communities of the Great Barrier Reef lagoon are influenced by riverine floodwaters and seasonal weather events
+ABSTRACT:
+The role of microorganisms in maintaining coral reef health is increasingly recognized. Riverine floodwater containing herbicides and excess nutrients from fertilizers compromises water quality in the inshore Great Barrier Reef (GBR), with unknown consequences for planktonic marine microbial communities and thus coral reefs. In this baseline study, inshore GBR microbial communities were monitored along a 124 km long transect between 2011 and 2013 using 16S rRNA gene amplicon sequencing. Members of the bacterial orders Rickettsiales (e.g., Pelagibacteraceae) and Synechococcales (e.g., 
+
+PRJEB5835
+pmc id: 4355682
+TITLE: Molecular-based approaches to characterize coastal microbial community and their potential relation to the trophic state of Red Sea
+ABSTRACT:
+Molecular-based approaches were used to characterize the coastal microbiota and to elucidate the trophic state of Red Sea. Nutrient content and enterococci numbers were monitored, and used to correlate with the abundance of microbial markers. Microbial source tracking revealed the presence of >1 human-associated 
+
+PRJNA274703
+pmc id: 4349146
+TITLE: Oxygen availability is a major factor in determining the composition of microbial communities involved in methane oxidation
+ABSTRACT:
+We have previously observed that methane supplied to lake sediment microbial communities as a substrate not only causes a response by 
+
+PRJNA274325
+pmc id: 4651346
+TITLE: Structural Diversity of Bacterial Communities Associated with Bloom-Forming Freshwater Cyanobacteria Differs According to the Cyanobacterial Genus
+ABSTRACT:
+The factors and processes driving cyanobacterial blooms in eutrophic freshwater ecosystems have been extensively studied in the past decade. A growing number of these studies concern the direct or indirect interactions between cyanobacteria and heterotrophic bacteria. The presence of bacteria that are directly attached or immediately adjacent to cyanobacterial cells suggests that intense nutrient exchanges occur between these microorganisms. In order to determine if there is a specific association between cyanobacteria and bacteria, we compared the bacterial community composition during two cyanobacteria blooms of 
+
+PRJNA271790
+pmc id: 4428210
+TITLE: Examining the impact of acetylene on N-fixation and the active sediment microbial community
+ABSTRACT:
+Here we examined the impact of a commonly employed method used to measure nitrogen fixation, the acetylene reduction assay (ARA), on a marine sediment community. Historically, the ARA technique has been broadly employed for its ease of use, in spite of numerous known artifacts. To gauge the severity of these effects in a natural environment, we employed high-throughput 16S rRNA gene sequencing to detect differences in acetylene-treated sediments vs. non-treated control sediments after a 7 h incubation. Within this short time period, significant differences were seen across all activity of microbes identified in the sediment, implying that the changes induced by acetylene occur quickly. The results have important implications for our understanding of marine nitrogen budgets. Moreover, because the ARA technique has been widely used in terrestrial and freshwater habitats, these results may be applicable to other ecosystems.
+
+PRJNA271696
+pmc id: 4370824
+TITLE: RNA Preservation Agents and Nucleic Acid Extraction Method Bias Perceived Bacterial Community Composition
+ABSTRACT:
+Bias is a pervasive problem when characterizing microbial communities. An important source is the difference in lysis efficiencies of different populations, which vary depending on the extraction protocol used. To avoid such biases impacting comparisons between gene and transcript abundances in the environment, the use of one protocol that simultaneously extracts both types of nucleic acids from microbial community samples has gained popularity. However, knowledge regarding tradeoffs to combined nucleic acid extraction protocols is limited, particularly regarding yield and biases in the observed community composition. Here, we evaluated a commercially available protocol for simultaneous extraction of DNA and RNA, which we adapted for freshwater microbial community samples that were collected on filters. DNA and RNA yields were comparable to other commonly used, but independent DNA and RNA extraction protocols. RNA protection agents benefited RNA quality, but decreased DNA yields significantly. Choice of extraction protocol influenced the perceived bacterial community composition, with strong method-dependent biases observed for specific phyla such as the Verrucomicrobia. The combined DNA/RNA extraction protocol detected significantly higher levels of Verrucomicrobia than the other protocols, and those higher numbers were confirmed by microscopic analysis. Use of RNA protection agents as well as independent sequencing runs caused a significant shift in community composition as well, albeit smaller than the shift caused by using different extraction protocols. Despite methodological biases, sample origin was the strongest determinant of community composition. However, when the abundance of specific phylogenetic groups is of interest, researchers need to be aware of the biases their methods introduce. This is particularly relevant if different methods are used for DNA and RNA extraction, in addition to using RNA protection agents only for RNA samples.
+
+PRJNA271685
+pmc id: 5001651
+TITLE: Distinct Bacterial Microbiomes in Sexual and Asexual 
+ABSTRACT:
+Different reproductive strategies and the transition to asexuality can be associated with microbial symbionts. Whether such a link exists within mollusks has never been evaluated. We took the first steps towards addressing this possibility by performing pyrosequencing of bacterial 16S rRNA genes associated with 
+
+PRJNA271567
+pmc id: 4561691
+TITLE: Characterization of 
+ABSTRACT:
+Microbial degradation is a major determinant of the fate of pollutants in the environment. 
+
+PRJNA271537
+pmc id: 4577205
+TITLE: Dynamics of an experimental microbial invasion
+ABSTRACT:
+Current models for biological invasions are predominantly based on macroorganisms. Few invasion model assumptions have been validated for microbial systems. Further research on microbial invasion dynamics is required to determine whether macrobial models are appropriate for microbes, as well as to understand present and future distributions of invasive microorganisms, particularly in the face of contemporary environmental changes. We studied the establishment of an invasive protist in natural microbial assemblages in replicate experimental microcosms and found that, under adequate environmental conditions, invasion success was determined by the number of invading propagules rather than resource availability and the diversity of the invaded communities. This study is among the first to test invasibility hypotheses using an actual invasive microbial species in natural communities.
+
+PRJNA270657
+pmc id: 4975002
+TITLE: Culture Independent Genomic Comparisons Reveal Environmental Adaptations for Altiarchaeales
+ABSTRACT:
+The recently proposed candidatus order Altiarchaeales remains an uncultured archaeal lineage composed of genetically diverse, globally widespread organisms frequently observed in anoxic subsurface environments. In spite of 15 years of studies on the psychrophilic biofilm-producing 
+
+PRJNA270248
+pmc id: 5706468
+TITLE: Bacterial Succession on Sinking Particles in the Ocean's Interior
+ABSTRACT:
+Sinking particles formed in the photic zone and moving vertically through the water column are a main mechanism for nutrient transport to the deep ocean, and a key component of the biological carbon pump. The particles appear to be processed by a microbial community substantially different from the surrounding waters. Single cell genomics and metagenomics were employed to describe the succession of dominant bacterial groups during particle processing. Sinking particles were extracted from sediment traps at Station Aloha in the North Pacific Subtropical Gyre (NPSG) during two different trap deployments conducted in July and August 2012. The microbial communities in poisoned vs. live sediment traps differed significantly from one another, consistent with prior observations by Fontanez et al. (
+
+PRJNA269563
+pmc id: 4356103
+TITLE: Selective pressure of antibiotics on ARGs and bacterial communities in manure-polluted freshwater-sediment microcosms
+ABSTRACT:
+The aim of this study was to investigate selective pressure of antibiotics on antibiotic resistance genes (ARGs) and bacterial communities in manure-polluted aquatic environment. Three treatment groups were set up in freshwater-sediment microcosms: tetracyclines group, sulfonamides group and fluoroquinolones group. Sediment and water samples were collected on day 14 after treatment. Antibiotic concentrations, ARGs abundances and bacterial community composition were analyzed. Antibiotic concentrations were determined by ultra-performance liquid chromatography-electrospray tandem mass spectrometry. ARGs abundances were quantified by real time quantitative PCR. Bacterial community composition was analyzed based on amplicon sequencing. Of the three classes of antibiotics analyzed in the treatment groups, accumulation amounts were tetracyclines> fluoroquinolone> sulfonamides in the sediment samples, while they were sulfonamides> fluoroquinolone> tetracyclines in the water samples. In the treatment groups, the relative abundances of some tet resistance genes [
+
+PRJNA269510
+pmc id: 4267279
+TITLE: Microbial diversity and community structure across environmental gradients in Bransfield Strait, Western Antarctic Peninsula
+ABSTRACT:
+The Southern Ocean is currently subject to intense investigations, mainly related to its importance for global biogeochemical cycles and its alarming rate of warming in response to climate change. Microbes play an essential role in the functioning of this ecosystem and are the main drivers of the biogeochemical cycling of elements. Yet, the diversity and abundance of microorganisms in this system remain poorly studied, in particular with regards to changes along environmental gradients. Here, we used amplicon sequencing of 16S rRNA gene tags using primers covering both Bacteria and Archaea to assess the composition and diversity of the microbial communities from four sampling depths (surface, the maximum and minimum of the oxygen concentration, and near the seafloor) at 10 oceanographic stations located in Bransfield Strait [northwest of the Antarctic Peninsula (AP)] and near the sea ice edge (north of the AP). Samples collected near the seafloor and at the oxygen minimum exhibited a higher diversity than those from the surface and oxygen maximum for both bacterial and archaeal communities. The main taxonomic groups identified below 100 m were Thaumarchaeota, Euryarchaeota and Proteobacteria (Gamma-, Delta-, Beta-, and Alphaproteobacteria), whereas in the mixed layer above 100 m Bacteroidetes and Proteobacteria (mainly Alpha- and Gammaproteobacteria) were found to be dominant. A combination of environmental factors seems to influence the microbial community composition. Our results help to understand how the dynamic seascape of the Southern Ocean shapes the microbial community composition and set a baseline for upcoming studies to evaluate the response of this ecosystem to future changes.
+
+PRJNA269301
+pmc id: 4333863
+TITLE: Out of the dark: transitional subsurface-to-surface microbial diversity in a terrestrial serpentinizing seep (Manleluag, Pangasinan, the Philippines)
+ABSTRACT:
+In the Zambales ophiolite range, terrestrial serpentinizing fluid seeps host diverse microbial assemblages. The fluids fall within the profile of Ca
+
+PRJNA269199
+pmc id: 4757698
+TITLE: An Exogenous Surfactant-Producing 
+ABSTRACT:
+This study used an exogenous lipopeptide-producing 
+
+PRJNA269111
+pmc id: 4551227
+TITLE: Microbial Diversity and Putative Diazotrophy in High- and Low-Microbial-Abundance Mediterranean Sponges
+ABSTRACT:
+Microbial communities associated with marine sponges carry out nutrient transformations essential for benthic-pelagic coupling; however, knowledge about their composition and function is still sparse. We evaluated the richness and diversity of prokaryotic assemblages associated with three high-microbial-abundance (HMA) and three low-microbial-abundance (LMA) sympatric Mediterranean sponges to address their stability and uniqueness. Moreover, to examine functionality and because an imbalance between nitrogen ingestion and excretion has been observed for some of these species, we sequenced nitrogenase genes (
+
+PRJNA268909
+pmc id: 4486872
+TITLE: Functional gene pyrosequencing reveals core proteobacterial denitrifiers in boreal lakes
+ABSTRACT:
+Denitrification is an important microbial process in aquatic ecosystems that can reduce the effects of eutrophication. Here, quantification and pyrosequencing of 
+
+PRJNA268385
+pmc id: 5702731
+TITLE: Sulfide production and oxidation by heterotrophic bacteria under aerobic conditions
+ABSTRACT:
+Sulfide (H
+
+PRJNA268033
+pmc id: 4914490
+TITLE: Microbiomes of 
+ABSTRACT:
+Octocorals are sources of novel but understudied microbial diversity. Conversely, scleractinian or reef-building coral microbiomes have been heavily examined in light of the threats of climate change. 
+
+PRJNA268032
+pmc id: 5436926
+TITLE: Retroelement guided protein diversification abounds in vast lineages of bacteria and archaea
+ABSTRACT:
+Major radiations of enigmatic bacteria and archaea with large inventories of uncharacterized proteins are a striking feature of the Tree of Life
+
+PRJNA267690
+pmc id: 4266044
+TITLE: High temporal and spatial diversity in marine RNA viruses implies that they have an important role in mortality and structuring plankton communities
+ABSTRACT:
+Viruses in the order 
+
+PRJNA266338
+pmc id: 5296724
+TITLE: Metagenomic survey of the taxonomic and functional microbial communities of seawater and sea ice from the Canadian Arctic
+ABSTRACT:
+Climate change has resulted in an accelerated decline of Arctic sea ice since 2001 resulting in primary production increases and prolongation of the ice-free season within the Northwest Passage. The taxonomic and functional microbial community composition of the seawater and sea ice of the Canadian Arctic is not very well known. Bacterial communities from the bottom layer of sea ice cores and surface water from 23 locations around Cornwallis Island, NU, Canada, were extensively screened. The bacterial 16S rRNA gene was sequenced for all samples while shotgun metagenomics was performed on selected samples. Bacterial community composition showed large variation throughout the sampling area both for sea ice and seawater. Seawater and sea ice samples harbored significantly distinct microbial communities, both at different taxonomic levels and at the functional level. A key difference between the two sample types was the dominance of algae in sea ice samples, as visualized by the higher relative abundance of algae and photosynthesis-related genes in the metagenomic datasets and the higher chl 
+
+PRJNA265986
+pmc id: 5274519
+TITLE: Metagenomic identification of active methanogens and methanotrophs in serpentinite springs of the Voltri Massif, Italy
+ABSTRACT:
+The production of hydrogen and methane by geochemical reactions associated with the serpentinization of ultramafic rocks can potentially support subsurface microbial ecosystems independent of the photosynthetic biosphere. Methanogenic and methanotrophic microorganisms are abundant in marine hydrothermal systems heavily influenced by serpentinization, but evidence for methane-cycling archaea and bacteria in continental serpentinite springs has been limited. This report provides metagenomic and experimental evidence for active methanogenesis and methanotrophy by microbial communities in serpentinite springs of the Voltri Massif, Italy. Methanogens belonging to family Methanobacteriaceae and methanotrophic bacteria belonging to family Methylococcaceae were heavily enriched in three ultrabasic springs (pH 12). Metagenomic data also suggest the potential for hydrogen oxidation, hydrogen production, carbon fixation, fermentation, and organic acid metabolism in the ultrabasic springs. The predicted metabolic capabilities are consistent with an active subsurface ecosystem supported by energy and carbon liberated by geochemical reactions within the serpentinite rocks of the Voltri Massif.
+
+PRJNA264605
+pmc id: 4737934
+TITLE: Massively parallel sequencing of single cells by epicPCR links functional genes with phylogenetic markers
+ABSTRACT:
+Many microbial communities are characterized by high genetic diversity. 16S ribosomal RNA sequencing can determine community members, and metagenomics can determine the functional diversity, but resolving the functional role of individual cells in high throughput remains an unsolved challenge. Here, we describe epicPCR (Emulsion, Paired Isolation and Concatenation PCR), a new technique that links functional genes and phylogenetic markers in uncultured single cells, providing a throughput of hundreds of thousands of cells with costs comparable to one genomic library preparation. We demonstrate the utility of our technique in a natural environment by profiling a sulfate-reducing community in a freshwater lake, revealing both known sulfate reducers and discovering new putative sulfate reducers. Our method is adaptable to any conserved genetic trait and translates genetic associations from diverse microbial samples into a sequencing library that answers targeted ecological questions. Potential applications include identifying functional community members, tracing horizontal gene transfer networks and mapping ecological interactions between microbial cells.
+
+PRJEB6121
+pmc id: 4975002
+TITLE: Culture Independent Genomic Comparisons Reveal Environmental Adaptations for Altiarchaeales
+ABSTRACT:
+The recently proposed candidatus order Altiarchaeales remains an uncultured archaeal lineage composed of genetically diverse, globally widespread organisms frequently observed in anoxic subsurface environments. In spite of 15 years of studies on the psychrophilic biofilm-producing 
+
+PRJNA263804
+pmc id: 4217175
+TITLE: Oxygen at Nanomolar Levels Reversibly Suppresses Process Rates and Gene Expression in Anammox and Denitrification in the Oxygen Minimum Zone off Northern Chile
+ABSTRACT:
+A major percentage (20 to 40%) of global marine fixed-nitrogen loss occurs in oxygen minimum zones (OMZs). Concentrations of O
+
+PRJNA261725
+pmc id: 4399438
+TITLE: Microbial community composition and diversity in Caspian Sea sediments
+ABSTRACT:
+The Caspian Sea is heavily polluted due to industrial and agricultural effluents as well as extraction of oil and gas reserves. Microbial communities can influence the fate of contaminants and nutrients. However, insight into the microbial ecology of the Caspian Sea significantly lags behind other marine systems. Here we describe microbial biomass, diversity and composition in sediments collected from three sampling stations in the Caspian Sea. Illumina sequencing of 16S rRNA genes revealed the presence of a number of known bacterial and archaeal heterotrophs suggesting that organic carbon is a primary factor shaping microbial communities. Surface sediments collected from bottom waters with low oxygen levels were dominated by 
+
+PRJNA261440
+pmc id: 4561712
+TITLE: The Bacterial Communities of Full-Scale Biologically Active, Granular Activated Carbon Filters Are Stable and Diverse and Potentially Contain Novel Ammonia-Oxidizing Microorganisms
+ABSTRACT:
+The bacterial community composition of the full-scale biologically active, granular activated carbon (BAC) filters operated at the St. Paul Regional Water Services (SPRWS) was investigated using Illumina MiSeq analysis of PCR-amplified 16S rRNA gene fragments. These bacterial communities were consistently diverse (Shannon index, >4.4; richness estimates, >1,500 unique operational taxonomic units [OTUs]) throughout the duration of the 12-month study period. In addition, only modest shifts in the quantities of individual bacterial populations were observed; of the 15 most prominent OTUs, the most highly variable population (a 
+
+PRJNA260488
+pmc id: 4414474
+TITLE: Insights from the Metagenome of an Acid Salt Lake: The Role of Biology in an Extreme Depositional Environment
+ABSTRACT:
+The extremely acidic brine lakes of the Yilgarn Craton of Western Australia are home to some of the most biologically challenging waters on Earth. In this study, we employed metagenomic shotgun sequencing to generate a microbial profile of the depositional environment associated with the sulfur-rich sediments of one such lake. Of the 1.5 M high-quality reads generated, 0.25 M were mapped to protein features, which in turn provide new insights into the metabolic function of this community. In particular, 45 diverse genes associated with sulfur metabolism were identified, the majority of which were linked to either the conversion of sulfate to adenylylsulfate and the subsequent production of sulfide from sulfite or the oxidation of sulfide, elemental sulfur, and thiosulfate via the sulfur oxidation (Sox) system. This is the first metagenomic study of an acidic, hypersaline depositional environment, and we present evidence for a surprisingly high level of microbial diversity. Our findings also illuminate the possibility that we may be meaningfully underestimating the effects of biology on the chemistry of these sulfur-rich sediments, thereby influencing our understanding of past geobiological conditions that may have been present on Earth as well as early Mars.
+
+PRJNA259436
+pmc id: 4193313
+TITLE: Biogeography rather than association with cyanobacteria structures symbiotic microbial communities in the marine sponge 
+ABSTRACT:
+The sponge 
+
+PRJNA259156
+pmc id: 5737619
+TITLE: The Rhizome of Lokiarchaeota Illustrates the Mosaicity of Archaeal Genomes
+ABSTRACT:
+Genome remodeling and exchange of sequences are widespread in the prokaryotic world and mosaic genomes challenge the classification of prokaryotes, which cannot be properly achieved in terms of a single gene or group of genes. Here, we studied individually the gene collection of the archaic microorganism 
+
+PRJNA258175
+pmc id: 4628106
+TITLE: Comparative metagenomics reveals impact of contaminants on groundwater microbiomes
+ABSTRACT:
+To understand patterns of geochemical cycling in pristine versus contaminated groundwater ecosystems, pristine shallow groundwater (FW301) and contaminated groundwater (FW106) samples from the Oak Ridge Integrated Field Research Center (OR-IFRC) were sequenced and compared to each other to determine phylogenetic and metabolic difference between the communities. 
+
+PRJEB6873
+pmc id: 4272751
+TITLE: Community Shift from Phototrophic to Chemotrophic Sulfide Oxidation following Anoxic Holomixis in a Stratified Seawater Lake
+ABSTRACT:
+Most stratified sulfidic holomictic lakes become oxygenated after annual turnover. In contrast, Lake Rogoznica, on the eastern Adriatic coast, has been observed to undergo a period of water column anoxia after water layer mixing and establishment of holomictic conditions. Although Lake Rogoznica's chemistry and hydrography have been studied extensively, it is unclear how the microbial communities typically inhabiting the oxic epilimnion and a sulfidic hypolimnion respond to such a drastic shift in redox conditions. We investigated the impact of anoxic holomixis on microbial diversity and microbially mediated sulfur cycling in Lake Rogoznica with an array of culture-independent microbiological methods. Our data suggest a tight coupling between the lake's chemistry and occurring microorganisms. During stratification, anoxygenic phototrophic sulfur bacteria were dominant at the chemocline and in the hypolimnion. After an anoxic mixing event, the anoxygenic phototrophic sulfur bacteria entirely disappeared, and the homogeneous, anoxic water column was dominated by a bloom of gammaproteobacterial sulfur oxidizers related to the GSO/SUP05 clade. This study is the first report of a community shift from phototrophic to chemotrophic sulfide oxidizers as a response to anoxic holomictic conditions in a seasonally stratified seawater lake.
+
+PRJEB6879
+pmc id: 4303643
+TITLE: Catchment-scale biogeography of riverine bacterioplankton
+ABSTRACT:
+Lotic ecosystems such as rivers and streams are unique in that they represent a continuum of both space and time during the transition from headwaters to the river mouth. As microbes have very different controls over their ecology, distribution and dispersion compared with macrobiota, we wished to explore biogeographical patterns within a river catchment and uncover the major drivers structuring bacterioplankton communities. Water samples collected across the River Thames Basin, UK, covering the transition from headwater tributaries to the lower reaches of the main river channel were characterised using 16S rRNA gene pyrosequencing. This approach revealed an ecological succession in the bacterial community composition along the river continuum, moving from a community dominated by Bacteroidetes in the headwaters to Actinobacteria-dominated downstream. Location of the sampling point in the river network (measured as the cumulative water channel distance upstream) was found to be the most predictive spatial feature; inferring that ecological processes pertaining to temporal community succession are of prime importance in driving the assemblages of riverine bacterioplankton communities. A decrease in bacterial activity rates and an increase in the abundance of low nucleic acid bacteria relative to high nucleic acid bacteria were found to correspond with these downstream changes in community structure, suggesting corresponding functional changes. Our findings show that bacterial communities across the Thames basin exhibit an ecological succession along the river continuum, and that this is primarily driven by water residence time rather than the physico-chemical status of the river.
+
+PRJNA255807
+pmc id: 4928833
+TITLE: Factors Influencing Bacterial Diversity and Community Composition in Municipal Drinking Waters in the Ohio River Basin, USA
+ABSTRACT:
+The composition and metabolic activities of microbes in drinking water distribution systems can affect water quality and distribution system integrity. In order to understand regional variations in drinking water microbiology in the upper Ohio River watershed, the chemical and microbiological constituents of 17 municipal distribution systems were assessed. While sporadic variations were observed, the microbial diversity was generally dominated by fewer than 10 taxa, and was driven by the amount of disinfectant residual in the water. Overall, 
+
+PRJNA254808
+pmc id: 4585252
+TITLE: Meta-omic signatures of microbial metal and nitrogen cycling in marine oxygen minimum zones
+ABSTRACT:
+Iron (Fe) and copper (Cu) are essential cofactors for microbial metalloenzymes, but little is known about the metalloenyzme inventory of anaerobic marine microbial communities despite their importance to the nitrogen cycle. We compared dissolved O
+
+PRJNA253930
+pmc id: 4817704
+TITLE: Natural volcanic CO
+ABSTRACT:
+Atmospheric carbon dioxide (CO
+
+PRJNA253472
+pmc id: 4145072
+TITLE: Sequencing at sea: challenges and experiences in Ion Torrent PGM sequencing during the 2013 Southern Line Islands Research Expedition
+ABSTRACT:
+Genomics and metagenomics have revolutionized our understanding of marine microbial ecology and the importance of microbes in global geochemical cycles. However, the process of DNA sequencing has always been an abstract extension of the research expedition, completed once the samples were returned to the laboratory. During the 2013 Southern Line Islands Research Expedition, we started the first effort to bring next generation sequencing to some of the most remote locations on our planet. We successfully sequenced twenty six marine microbial genomes, and two marine microbial metagenomes using the Ion Torrent PGM platform on the Merchant Yacht Hanse Explorer. Onboard sequence assembly, annotation, and analysis enabled us to investigate the role of the microbes in the coral reef ecology of these islands and atolls. This analysis identified phosphonate as an important phosphorous source for microbes growing in the Line Islands and reinforced the importance of L-serine in marine microbial ecosystems. Sequencing in the field allowed us to propose hypotheses and conduct experiments and further sampling based on the sequences generated. By eliminating the delay between sampling and sequencing, we enhanced the productivity of the research expedition. By overcoming the hurdles associated with sequencing on a boat in the middle of the Pacific Ocean we proved the flexibility of the sequencing, annotation, and analysis pipelines.
+
+PRJNA253405
+pmc id: 4672791
+TITLE: Chemical dispersants can suppress the activity of natural oil-degrading microorganisms
+ABSTRACT:
+Oil spills are a significant source of hydrocarbon inputs into the ocean. In response to oil spills, chemical dispersants are applied to the oil-contaminated seawater to disperse surface slicks into smaller droplets that are presumed to be more bioavailable to microorganisms. We provide evidence that chemical dispersants applied to either deep water or surface water from the Gulf of Mexico did not stimulate oil biodegradation. Direct measurement of alkane and aromatic hydrocarbon oxidation rates revealed either suppression or no stimulation of oil biodegradation in the presence of dispersants. However, dispersants affected microbial community composition and enriched bacterial populations with the ability to use dispersant-derived compounds as growth substrates, while oil-alone amendments enriched for natural hydrocarbon degraders.
+
+PRJNA252404
+pmc id: 4398513
+TITLE: Microbial diversity and abundance in the Xinjiang Luliang long-term water-flooding petroleum reservoir
+ABSTRACT:
+Microbial populations associated with microbial enhanced oil recovery (MEOR) and their abundance in the Xinjiang Luliang water-flooding petroleum reservoir were investigated using 16S rRNA, nitrate reductases, dissimilatory sulfate reductase, and methyl coenzyme-M reductase-encoded genes to provide ecological information for the potential application of MEOR. 16S rRNA gene miseq sequencing revealed that this reservoir harbored large amounts of taxa, including 155 bacterial and 7 archeal genera. Among them, 
+
+PRJNA248394
+pmc id: 5742204
+TITLE: Diverse CO
+ABSTRACT:
+With rising atmospheric CO
+
+PRJNA247775
+pmc id: 4611497
+TITLE: SIP metagenomics identifies uncultivated 
+ABSTRACT:
+Dimethylsulphide (DMS) has an important role in the global sulphur cycle and atmospheric chemistry. Microorganisms using DMS as sole carbon, sulphur or energy source, contribute to the cycling of DMS in a wide variety of ecosystems. The diversity of microbial populations degrading DMS in terrestrial environments is poorly understood. Based on cultivation studies, a wide range of bacteria isolated from terrestrial ecosystems were shown to be able to degrade DMS, yet it remains unknown whether any of these have important roles 
+
+PRJNA245804
+pmc id: 5623196
+TITLE: Microbial Diversity in a Hypersaline Sulfate Lake: A Terrestrial Analog of Ancient Mars
+ABSTRACT:
+Life can persist under severe osmotic stress and low water activity in hypersaline environments. On Mars, evidence for the past presence of saline bodies of water is prevalent and resulted in the widespread deposition of sulfate and chloride salts. Here we investigate Spotted Lake (British Columbia, Canada), a hypersaline lake with extreme (>3 M) levels of sulfate salts as an exemplar of the conditions thought to be associated with ancient Mars. We provide the first characterization of microbial structure in Spotted Lake sediments through metagenomic sequencing, and report a bacteria-dominated community with abundant Proteobacteria, Firmicutes, and Bacteroidetes, as well as diverse extremophiles. Microbial abundance and functional comparisons reveal similarities to Ace Lake, a meromictic Antarctic lake with anoxic and sulfidic bottom waters. Our analysis suggests that hypersaline-associated species occupy niches characterized foremost by differential abundance of Archaea, uncharacterized Bacteria, and Cyanobacteria. Potential biosignatures in this environment are discussed, specifically the likelihood of a strong sulfur isotopic fractionation record within the sediments due to the presence of sulfate reducing bacteria. With its high sulfate levels and seasonal freeze-thaw cycles, Spotted Lake is an analog for ancient paleolakes on Mars in which sulfate salt deposits may have offered periodically habitable environments, and could have concentrated and preserved organic materials or their biomarkers over geologic time.
+
+PRJNA245507
+pmc id: 4262359
+TITLE: Impact of Hydraulic Well Restoration on Native Bacterial Communities in Drinking Water Wells
+ABSTRACT:
+The microbial monitoring of drinking water production systems is essential to assure water quality and minimize possible risks. However, the comparative impact of microbes from the surrounding aquifer and of those established within drinking water wells on water parameters remains poorly understood. High pressure jetting is a routine method to impede well clogging by fine sediments and also biofilms. In the present study, bacterial communities were investigated in a drinking water production system before, during, and after hydraulic purging. Variations were observed in bacterial communities between different wells of the same production system before maintenance, despite them having practically identical water chemistries. This may have reflected the distinct usage practices of the different wells, and also local aquifer heterogeneity. Hydraulic jetting of one well preferentially purged a subset of the dominating taxa, including lineages related to 
+
+PRJNA244754
+pmc id: 5702731
+TITLE: Sulfide production and oxidation by heterotrophic bacteria under aerobic conditions
+ABSTRACT:
+Sulfide (H
+
+PRJNA244496
+pmc id: 4438319
+TITLE: Spatial scales of bacterial community diversity at cold seeps (Eastern Mediterranean Sea)
+ABSTRACT:
+Cold seeps are highly productive, fragmented marine ecosystems that form at the seafloor around hydrocarbon emission pathways. The products of microbial utilization of methane and other hydrocarbons fuel rich chemosynthetic communities at these sites, with much higher respiration rates compared with the surrounding deep-sea floor. Yet little is known as to the richness, composition and spatial scaling of bacterial communities of cold seeps compared with non-seep communities. Here we assessed the bacterial diversity across nine different cold seeps in the Eastern Mediterranean deep-sea and surrounding seafloor areas. Community similarity analyses were carried out based on automated ribosomal intergenic spacer analysis (ARISA) fingerprinting and high-throughput 454 tag sequencing and were combined with 
+
+PRJNA241494
+pmc id: 4277477
+TITLE: Bacterial Community Composition in Three Freshwater Reservoirs of Different Alkalinity and Trophic Status
+ABSTRACT:
+In order to investigate the factors controlling the bacterial community composition (BCC) in reservoirs, we sampled three freshwater reservoirs with contrasted physical and chemical characteristics and trophic status. The BCC was analysed by 16S rRNA gene amplicon 454 pyrosequencing. In parallel, a complete dataset of environmental parameters and phytoplankton community composition was also collected. BCC in the analysed reservoirs resembled that of epilimnetic waters of natural freshwater lakes with presence of 
+
+PRJEB3228
+pmc id: 4747322
+TITLE: Value, but high costs in post-deposition data curation
+ABSTRACT:
+Discoverability of sequence data in primary data archives is proportional to the richness of contextual information associated with the data. Here, we describe an exercise in the improvement of contextual information surrounding sample records associated with metagenomics sequence reads available in the European Nucleotide Archive. We outline the annotation process and summarize findings of this effort aimed at increasing usability of publicly available environmental data. Furthermore, we emphasize the benefits of such an exercise and detail its costs. We conclude that such a third party annotation approach is expensive and has value as an element of curation, but should form only part of a more sustainable submitter-driven approach.
+
+PRJNA239691
+pmc id: 4476143
+TITLE: Deep sequencing of the viral 
+ABSTRACT:
+Deep sequencing of the viral 
+
+PRJNA239415
+pmc id: 4673309
+TITLE: Resistance Mutations in 
+ABSTRACT:
+Alterations in the target proteins of fluoroquinolones, especially in GyrA and ParC, are known to cause resistance. Here, we investigated environmental 
+
+PRJNA238866
+pmc id: 5673642
+TITLE: Reconstruction of Diverse Verrucomicrobial Genomes from Metagenome Datasets of Freshwater Reservoirs
+ABSTRACT:
+The phylum 
+
+PRJNA238448
+pmc id: 4139720
+TITLE: Secondary metabolite gene expression and interplay of bacterial functions in a tropical freshwater cyanobacterial bloom
+ABSTRACT:
+Cyanobacterial harmful algal blooms (cyanoHABs) appear to be increasing in frequency on a global scale. The Cyanobacteria in blooms can produce toxic secondary metabolites that make freshwater dangerous for drinking and recreation. To characterize microbial activities in a cyanoHAB, transcripts from a eutrophic freshwater reservoir in Singapore were sequenced for six samples collected over one day-night period. Transcripts from the Cyanobacterium 
+
+PRJNA237344
+pmc id: 4478696
+TITLE: Metatranscriptomics of N
+ABSTRACT:
+Biological N
+
+PRJNA234441
+pmc id: 4737931
+TITLE: Diverse, rare microbial taxa responded to the 
+ABSTRACT:
+The 
+
+PRJNA234104
+pmc id: 4125166
+TITLE: 16S rRNA Gene Survey of Microbial Communities in Winogradsky Columns
+ABSTRACT:
+A Winogradsky column is a clear glass or plastic column filled with enriched sediment. Over time, microbial communities in the sediment grow in a stratified ecosystem with an oxic top layer and anoxic sub-surface layers. Winogradsky columns have been used extensively to demonstrate microbial nutrient cycling and metabolic diversity in undergraduate microbiology labs. In this study, we used high-throughput 16s rRNA gene sequencing to investigate the microbial diversity of Winogradsky columns. Specifically, we tested the impact of sediment source, supplemental cellulose source, and depth within the column, on microbial community structure. We found that the Winogradsky columns were highly diverse communities but are dominated by three phyla: Proteobacteria, Bacteroidetes, and Firmicutes. The community is structured by a founding population dependent on the source of sediment used to prepare the columns and is differentiated by depth within the column. Numerous biomarkers were identified distinguishing sample depth, including Cyanobacteria, Alphaproteobacteria, and Betaproteobacteria as biomarkers of the soil-water interface, and Clostridia as a biomarker of the deepest depth. Supplemental cellulose source impacted community structure but less strongly than depth and sediment source. In columns dominated by Firmicutes, the family Peptococcaceae was the most abundant sulfate reducer, while in columns abundant in Proteobacteria, several Deltaproteobacteria families, including Desulfobacteraceae, were found, showing that different taxonomic groups carry out sulfur cycling in different columns. This study brings this historical method for enrichment culture of chemolithotrophs and other soil bacteria into the modern era of microbiology and demonstrates the potential of the Winogradsky column as a model system for investigating the effect of environmental variables on soil microbial communities.
+
+PRJNA234011
+pmc id: 4083365
+TITLE: Mosquitoes rely on their gut microbiota for development
+ABSTRACT:
+Field studies indicate adult mosquitoes (Culicidae) host low diversity communities of bacteria that vary greatly among individuals and species. In contrast, it remains unclear how adult mosquitoes acquire their microbiome, what influences community structure, and whether the microbiome is important for survival. Here we used pyrosequencing of 16S rRNA to characterize the bacterial communities of three mosquito species reared under identical conditions. Two of these species, 
+
+PRJEB4914
+pmc id: 5438144
+TITLE: None
+ABSTRACT:
+Stromatolitic iron-rich structures have been reported from many ancient environments and are often described as 
+
+PRJNA233420
+pmc id: 5376048
+TITLE: Effects of water stratification and mixing on microbial community structure in a subtropical deep reservoir
+ABSTRACT:
+Microorganisms play pivotal roles within aquatic ecosystems, affecting their structure, functioning and services. However, little is known about the effects of water stratification and mixing on the aquatic microbial community dynamics in subtropical reservoirs. In this study, we explored vertical and seasonal patterns of microbial diversity in the Dongzhen Reservoir (southeast China). Quantitative PCR, quantitative RT-PCR, and 454 pyrosequencing were used for an in-depth characterization of the bacterial community across time (every three months for one year) and space (five different water depths). Our results indicated that thermal and oxygen stratification shaped the phylogenetic composition of microbial communities in the reservoir. There were significant differences in physical, chemical and microbiological parameters between epilimnion and hypolimnion (
+
+PRJNA231566
+pmc id: 4880568
+TITLE: Modulation of Medium-Chain Fatty Acid Synthesis in 
+ABSTRACT:
+The isolation or engineering of algal cells synthesizing high levels of medium-chain fatty acids (MCFAs) is attractive to mitigate the high clouding point of longer chain fatty acids in algal based biodiesel. To develop a more informed understanding of MCFA synthesis in photosynthetic microorganisms, we isolated several algae from Great Salt Lake and screened this collection for MCFA accumulation to identify strains naturally accumulating high levels of MCFA. A diatom, 
+
+PRJNA229802
+pmc id: 4345392
+TITLE: Profiling Microbial Communities in Manganese Remediation Systems Treating Coal Mine Drainage
+ABSTRACT:
+Water discharging from abandoned coal mines can contain extremely high manganese levels. Removing this metal is an ongoing challenge. Passive Mn(II) removal beds (MRBs) contain microorganisms that oxidize soluble Mn(II) to insoluble Mn(III/IV) minerals, but system performance is unpredictable. Using amplicon pyrosequencing, we profiled the bacterial, fungal, algal, and archaeal communities in four MRBs, performing at different levels, in Pennsylvania to determine whether they differed among MRBs and from surrounding soil and to establish the relative abundance of known Mn(II) oxidizers. Archaea were not detected; PCRs with archaeal primers returned only nontarget bacterial sequences. Fungal taxonomic profiles differed starkly between sites that remove the majority of influent Mn and those that do not, with the former being dominated by 
+
+PRJNA226255
+pmc id: 3903282
+TITLE: Microbial Sulfur Cycle in Two Hydrothermal Chimneys on the Southwest Indian Ridge
+ABSTRACT:
+Sulfur is an important element in sustaining microbial communities present in hydrothermal vents. Sulfur oxidation has been extensively studied due to its importance in chemosynthetic pathways in hydrothermal fields; however, less is known about sulfate reduction. Here, the metagenomes of hydrothermal chimneys located on the ultraslow-spreading Southwest Indian Ridge (SWIR) were pyrosequenced to elucidate the associated microbial sulfur cycle. A taxonomic summary of known genes revealed a few dominant bacteria that participated in the microbial sulfur cycle, particularly sulfate-reducing 
+
+PRJNA222664
+pmc id: 4656828
+TITLE: Degradation Network Reconstruction in Uric Acid and Ammonium Amendments in Oil-Degrading Marine Microcosms Guided by Metagenomic Data
+ABSTRACT:
+Biostimulation with different nitrogen sources is often regarded as a strategy of choice in combating oil spills in marine environments. Such environments are typically depleted in nitrogen, therefore limiting the balanced microbial utilization of carbon-rich petroleum constituents. It is fundamental, yet only scarcely accounted for, to analyze the catabolic consequences of application of biostimulants. Here, we examined such alterations in enrichment microcosms using sediments from chronically crude oil-contaminated marine sediment at Ancona harbor (Italy) amended with natural fertilizer, uric acid (UA), or ammonium (AMM). We applied the web-based AromaDeg resource using as query Illumina HiSeq meta-sequences (UA: 27,893 open reading frames; AMM: 32,180) to identify potential catabolic differences. A total of 45 (for UA) and 65 (AMM) gene sequences encoding key catabolic enzymes matched AromaDeg, and their participation in aromatic degradation reactions could be unambiguously suggested. Genomic signatures for the degradation of aromatics such as 2-chlorobenzoate, indole-3-acetate, biphenyl, gentisate, quinoline and phenanthrene were common for both microcosms. However, those for the degradation of orcinol, ibuprofen, phenylpropionate, homoprotocatechuate and benzene (in UA) and 4-aminobenzene-sulfonate, 
+
+PRJNA222663
+pmc id: 4656828
+TITLE: Degradation Network Reconstruction in Uric Acid and Ammonium Amendments in Oil-Degrading Marine Microcosms Guided by Metagenomic Data
+ABSTRACT:
+Biostimulation with different nitrogen sources is often regarded as a strategy of choice in combating oil spills in marine environments. Such environments are typically depleted in nitrogen, therefore limiting the balanced microbial utilization of carbon-rich petroleum constituents. It is fundamental, yet only scarcely accounted for, to analyze the catabolic consequences of application of biostimulants. Here, we examined such alterations in enrichment microcosms using sediments from chronically crude oil-contaminated marine sediment at Ancona harbor (Italy) amended with natural fertilizer, uric acid (UA), or ammonium (AMM). We applied the web-based AromaDeg resource using as query Illumina HiSeq meta-sequences (UA: 27,893 open reading frames; AMM: 32,180) to identify potential catabolic differences. A total of 45 (for UA) and 65 (AMM) gene sequences encoding key catabolic enzymes matched AromaDeg, and their participation in aromatic degradation reactions could be unambiguously suggested. Genomic signatures for the degradation of aromatics such as 2-chlorobenzoate, indole-3-acetate, biphenyl, gentisate, quinoline and phenanthrene were common for both microcosms. However, those for the degradation of orcinol, ibuprofen, phenylpropionate, homoprotocatechuate and benzene (in UA) and 4-aminobenzene-sulfonate, 
+
+PRJEB4614
+pmc id: 4858710
+TITLE: (Meta)genomic insights into the pathogenome of 
+ABSTRACT:
+Despite having serious clinical manifestations, 
+
+PRJNA222495
+pmc id: 4492430
+TITLE: 454 Pyrosequencing reveals diversity of 
+ABSTRACT:
+None
+
+PRJEB4356
+pmc id: 4018913
+TITLE: Unveiling of the Diversity of Prasinoviruses (
+ABSTRACT:
+Viruses strongly influence the ecology and evolution of their eukaryotic hosts in the marine environment, but little is known about their diversity and distribution. Prasinoviruses infect an abundant and widespread class of phytoplankton, the Mamiellophyceae, and thereby exert a specific and important role in microbial ecosystems. However, molecular tools to specifically identify this viral genus in environmental samples are still lacking. We developed two primer sets, designed for use with polymerase chain reactions and 454 pyrosequencing technologies, to target two conserved genes, encoding the DNA polymerase (PolB gene) and the major capsid protein (MCP gene). While only one copy of the PolB gene is present in 
+
+PRJNA217777
+pmc id: 4585252
+TITLE: Meta-omic signatures of microbial metal and nitrogen cycling in marine oxygen minimum zones
+ABSTRACT:
+Iron (Fe) and copper (Cu) are essential cofactors for microbial metalloenzymes, but little is known about the metalloenyzme inventory of anaerobic marine microbial communities despite their importance to the nitrogen cycle. We compared dissolved O
+
+PRJNA217527
+pmc id: 3807889
+TITLE: The Perils of Pathogen Discovery: Origin of a Novel Parvovirus-Like Hybrid Genome Traced to Nucleic Acid Extraction Spin Columns
+ABSTRACT:
+Next-generation sequencing was used for discovery and 
+
+PRJNA217461
+pmc id: 4018257
+TITLE: Abundance and Diversity of Ammonia-Oxidizing Archaea and Bacteria in Sediments of Trophic End Members of the Laurentian Great Lakes, Erie and Superior
+ABSTRACT:
+Ammonia oxidation is the first step of nitrification carried out by ammonia-oxidizing Archaea (AOA) and Bacteria (AOB). Lake Superior and Erie are part of the Great Lakes system differing in trophic status with Lake Superior being oligotrophic and Lake Erie meso- to eutrophic. Sediment samples were collected from both lakes and used to characterize abundance and diversity of AOA and AOB based on the ammonia monooxygenase (
+
+PRJNA215901
+pmc id: 3911227
+TITLE: Development and Bias Assessment of a Method for Targeted Metagenomic Sequencing of Marine Cyanobacteria
+ABSTRACT:
+None
+
+PRJNA210529
+pmc id: 3909814
+TITLE: Evidence for metaviromic islands in marine phages
+ABSTRACT:
+Metagenomic islands (MGIs) have been defined as genomic regions in prokaryotic genomes that under-recruit from metagenomes where most of the same genome recruits at close to 100% identity over most of its length. The presence of MGIs in prokaryotes has been associated to the diversity of concurrent lineages that vary at this level to disperse the predatory pressure of phages that, reciprocally, maintain high clonal diversity in the population and improve ecosystem performance. This was proposed as a Constant-Diversity (C-D) model. Here we have investigated the regions of phage genomes under-recruiting in a metavirome constructed with a sample from the same habitat where they were retrieved. Some of the genes found to under-recruit are involved in host recognition as would be expected from the C-D model. Furthermore, the recruitment of intragenic regions known to be involved in molecular recognition also had a significant under-recruitment compared to the rest of the gene. However, other genes apparently disconnected from the recognition process under-recruited often, specifically the terminases involved in packaging of the phage genome in the capsid and a few others. In addition, some highly related phage genomes (at nucleotide sequence level) had no metaviromic islands (MVIs). We speculate that the latter might be generalist phages with broad infection range that do not require clone specific lineages.
+
+PRJNA209200
+pmc id: 4032931
+TITLE: Recoding of the stop codon UGA to glycine by a BD1-5/SN-2 bacterium and niche partitioning between Alpha- and Gammaproteobacteria in a tidal sediment microbial community naturally selected in a laboratory chemostat
+ABSTRACT:
+Sandy coastal sediments are global hotspots for microbial mineralization of organic matter and denitrification. These sediments are characterized by advective porewater flow, tidal cycling and an active and complex microbial community. Metagenomic sequencing of microbial communities sampled from such sediments showed that potential sulfur oxidizing Gammaproteobacteria and members of the enigmatic BD1-5/SN-2 candidate phylum were abundant 
+
+PRJNA186721
+pmc id: 3631710
+TITLE: Metagenomic evidence for sulfur lithotrophy by Epsilonproteobacteria as the major energy source for primary productivity in a sub-aerial arctic glacial deposit, Borup Fiord Pass
+ABSTRACT:
+We combined free enenergy calculations and metagenomic analyses of an elemental sulfur (S
+
+PRJNA183456
+pmc id: 5552706
+TITLE: Seasonal Succession and Spatial Patterns of 
+ABSTRACT:
+None
+
+PRJNA183166
+pmc id: 5702731
+TITLE: Sulfide production and oxidation by heterotrophic bacteria under aerobic conditions
+ABSTRACT:
+Sulfide (H
+
+PRJNA182700
+pmc id: 3557045
+TITLE: Molecular and microscopic evidence of viruses in marine copepods
+ABSTRACT:
+As dominant members of marine mesozooplankton communities, copepods play critical roles in oceanic food webs and biogeochemical cycling. Despite the ecological significance of copepods, little is known regarding the causes of copepod mortality, and up to 35% of total copepod mortality cannot be accounted for by predation alone. Viruses have been established as ecologically important infectious agents in the oceans; however, viral infection has not been investigated in mesozooplankton communities. Here we used molecular and microscopic techniques to document viral infection in natural populations of the calanoid copepods 
+
+PRJNA182699
+pmc id: 3557045
+TITLE: Molecular and microscopic evidence of viruses in marine copepods
+ABSTRACT:
+As dominant members of marine mesozooplankton communities, copepods play critical roles in oceanic food webs and biogeochemical cycling. Despite the ecological significance of copepods, little is known regarding the causes of copepod mortality, and up to 35% of total copepod mortality cannot be accounted for by predation alone. Viruses have been established as ecologically important infectious agents in the oceans; however, viral infection has not been investigated in mesozooplankton communities. Here we used molecular and microscopic techniques to document viral infection in natural populations of the calanoid copepods 
+
+PRJNA174601
+pmc id: 4032931
+TITLE: Recoding of the stop codon UGA to glycine by a BD1-5/SN-2 bacterium and niche partitioning between Alpha- and Gammaproteobacteria in a tidal sediment microbial community naturally selected in a laboratory chemostat
+ABSTRACT:
+Sandy coastal sediments are global hotspots for microbial mineralization of organic matter and denitrification. These sediments are characterized by advective porewater flow, tidal cycling and an active and complex microbial community. Metagenomic sequencing of microbial communities sampled from such sediments showed that potential sulfur oxidizing Gammaproteobacteria and members of the enigmatic BD1-5/SN-2 candidate phylum were abundant 
+
+PRJNA174530
+pmc id: 4742810
+TITLE: Marine mammals harbor unique microbiotas shaped by and yet distinct from the sea
+ABSTRACT:
+Marine mammals play crucial ecological roles in the oceans, but little is known about their microbiotas. Here we study the bacterial communities in 337 samples from 5 body sites in 48 healthy dolphins and 18 healthy sea lions, as well as those of adjacent seawater and other hosts. The bacterial taxonomic compositions are distinct from those of other mammals, dietary fish and seawater, are highly diverse and vary according to body site and host species. Dolphins harbour 30 bacterial phyla, with 25 of them in the mouth, several abundant but poorly characterized Tenericutes species in gastric fluid and a surprisingly paucity of Bacteroidetes in distal gut. About 70% of near-full length bacterial 16S ribosomal RNA sequences from dolphins are unique. Host habitat, diet and phylogeny all contribute to variation in marine mammal distal gut microbiota composition. Our findings help elucidate the factors structuring marine mammal microbiotas and may enhance monitoring of marine mammal health.
+
+PRJEB402
+pmc id: 5607848
+TITLE: DESMAN: a new tool for de novo extraction of strains from metagenomes
+ABSTRACT:
+We introduce DESMAN for De novo Extraction of Strains from Metagenomes. Large multi-sample metagenomes are being generated but strain variation results in fragmentary co-assemblies. Current algorithms can bin contigs into metagenome-assembled genomes but are unable to resolve strain-level variation. DESMAN identifies variants in core genes and uses co-occurrence across samples to link variants into haplotypes and abundance profiles. These are then searched for against non-core genes to determine the accessory genome of each strain. We validated DESMAN on a complex 50-species 210-genome 96-sample synthetic mock data set and then applied it to the Tara Oceans microbiome.
+
+PRJNA68419
+pmc id: 4585252
+TITLE: Meta-omic signatures of microbial metal and nitrogen cycling in marine oxygen minimum zones
+ABSTRACT:
+Iron (Fe) and copper (Cu) are essential cofactors for microbial metalloenzymes, but little is known about the metalloenyzme inventory of anaerobic marine microbial communities despite their importance to the nitrogen cycle. We compared dissolved O
+
+PRJNA64039
+pmc id: 5248499
+TITLE: Towards long-read metagenomics: complete assembly of three novel genomes from bacteria dependent on a diazotrophic cyanobacterium in a freshwater lake co-culture
+ABSTRACT:
+Here we report three complete bacterial genome assemblies from a PacBio shotgun metagenome of a co-culture from Upper Klamath Lake, OR. Genome annotations and culture conditions indicate these bacteria are dependent on carbon and nitrogen fixation from the cyanobacterium 
+
+PRJNA59457
+pmc id: 3630111
+TITLE: Assembly-Driven Community Genomics of a Hypersaline Microbial Ecosystem
+ABSTRACT:
+Microbial populations inhabiting a natural hypersaline lake ecosystem in Lake Tyrrell, Victoria, Australia, have been characterized using deep metagenomic sampling, iterative 
+
+PRJNA47435
+pmc id: 4372165
+TITLE: Targeted diversity generation by intraterrestrial archaea and archaeal viruses
+ABSTRACT:
+In the evolutionary arms race between microbes, their parasites, and their neighbours, the capacity for rapid protein diversification is a potent weapon. Diversity-generating retroelements (DGRs) use mutagenic reverse transcription and retrohoming to generate myriad variants of a target gene. Originally discovered in pathogens, these retroelements have been identified in bacteria and their viruses, but never in archaea. Here we report the discovery of intact DGRs in two distinct intraterrestrial archaeal systems: a novel virus that appears to infect archaea in the marine subsurface, and, separately, two uncultivated nanoarchaea from the terrestrial subsurface. The viral DGR system targets putative tail fibre ligand-binding domains, potentially generating >10
+
+PRJNA33823
+pmc id: 3245069
+TITLE: BioProject and BioSample databases at NCBI: facilitating capture and organization of metadata
+ABSTRACT:
+As the volume and complexity of data sets archived at NCBI grow rapidly, so does the need to gather and organize the associated metadata. Although metadata has been collected for some archival databases, previously, there was no centralized approach at NCBI for collecting this information and using it across databases. The BioProject database was recently established to facilitate organization and classification of project data submitted to NCBI, EBI and DDBJ databases. It captures descriptive information about research projects that result in high volume submissions to archival databases, ties together related data across multiple archives and serves as a central portal by which to inform users of data availability. Concomitantly, the BioSample database is being developed to capture descriptive information about the biological samples investigated in projects. BioProject and BioSample records link to corresponding data stored in archival repositories. Submissions are supported by a web-based Submission Portal that guides users through a series of forms for input of rich metadata describing their projects and samples. Together, these databases offer improved ways for users to query, locate, integrate and interpret the masses of data held in NCBI's archival repositories. The BioProject and BioSample databases are available at 
+
+PRJNA18537
+pmc id: 4448039
+TITLE: Microbial diversity and metabolic networks in acid mine drainage habitats
+ABSTRACT:
+Acid mine drainage (AMD) emplacements are low-complexity natural systems. Low-pH conditions appear to be the main factor underlying the limited diversity of the microbial populations thriving in these environments, although temperature, ionic composition, total organic carbon, and dissolved oxygen are also considered to significantly influence their microbial life. This natural reduction in diversity driven by extreme conditions was reflected in several studies on the microbial populations inhabiting the various micro-environments present in such ecosystems. Early studies based on the physiology of the autochthonous microbiota and the growing success of 
+
+PRJNA13694
+pmc id: 4835058
+TITLE: Transcriptome Analysis Revealed Changes of Multiple Genes Involved in 
+ABSTRACT:
+Abalone (
+
