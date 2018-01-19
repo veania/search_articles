@@ -19,7 +19,6 @@ def main():
                 'metagenome ] OR [ marine microbial community ]] NOT gut] NOT intestine] NOT human'
 
     # get number of results
-
     handle = Entrez.esearch(db="bioproject", term=key_words)
     record = Entrez.read(handle)
     handle.close()
@@ -81,6 +80,7 @@ def main():
                 f.write('%s\n' % id)
                 f.close()
                 time.sleep(1)  # NCBI can kick you out if too many requests in a row
+
         except Exception:
             print 'error'
             txt = open("Error", "a")
@@ -88,8 +88,7 @@ def main():
             txt.close()
 
         number_of_projects -= 1
-        print 'Number of projects to be checked left: ', number_of_projects
-        print '_'
+        print 'Number of projects to be checked left: %s\n_' % number_of_projects
 
 
 if __name__ == "__main__":
